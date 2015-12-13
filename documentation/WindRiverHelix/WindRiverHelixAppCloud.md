@@ -166,7 +166,7 @@ In summary we need to:
     Registration ID
     Unique ID
 
-Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device
+__Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device__
 
 
 
