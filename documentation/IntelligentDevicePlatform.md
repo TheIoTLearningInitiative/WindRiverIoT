@@ -6,6 +6,5 @@
 
 > Wind River® Intelligent Device Platform XT is a customizable middleware development environment that provides security, connectivity, rich networking options, and device management. It simplifies the development, integration, and deployment of gateways for the Internet of Things.
 
-
 - [Wind River® Intelligent Device Platform Homepage](http://www.windriver.com/announces/intelligent-device-platform/)
 - [Wind River® Intelligent Device Platform Press Release](http://www.windriver.com/news/press/pr.html?ID=12221)
