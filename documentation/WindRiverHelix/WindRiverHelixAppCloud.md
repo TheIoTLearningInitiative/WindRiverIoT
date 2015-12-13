@@ -189,7 +189,7 @@ __Device Virtual Gateway not connected__
     - Unzip the archive on your host, and double click on the launch script Galileo2Device-virtual-gateway.sh
     - When prompted, enter the serial port connected to your device
 
-When running "Galileo2Device-virtual-gateway.sh" these is the log seen:
+When running "Galileo2Device-virtual-gateway.sh" this is the log seen:
 
     xe1gyq@jessie:~/Downloads/IntelGalileoGateway/Galileo2Device-virtual-gateway$ sh Galileo2Device-virtual-gateway.sh 
     
