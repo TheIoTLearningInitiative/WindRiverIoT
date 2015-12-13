@@ -122,7 +122,7 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
     Starting application...  done
     Application is now running
 
-### Applications Projects, Templates
+### Applications Projects, Github
 
 ## Video Tutorials
 
