@@ -31,7 +31,7 @@ Select "New Device" from upper right corner
 
 #### New Device
 
-__Select the SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs) then select "Next"
+__Select the SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs), select "Wind River Rocket for Intel x86 Simulator" then click "Next"
 
 - Wind River Linux-7 for Intel Galileo
 - Wind River Rocket for Intel Galileo Gen 2
