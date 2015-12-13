@@ -158,7 +158,7 @@ Download
     VirtualDevice
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
     Description
-     A Rocket OS distribution for QEMU x86 Quark
+     Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® ..
     Documentation
      [Getting started with Rocket on Galileo Gen 2]()
     Registration ID
