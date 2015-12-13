@@ -8,4 +8,4 @@
 
 - [Wind River® Intelligent Device Platform Homepage](http://www.windriver.com/announces/intelligent-device-platform/)
 - [Wind River® Intelligent Device Platform Press Release](http://www.windriver.com/news/press/pr.html?ID=12221)
-- []Wind River Intelligent Device Platform XT Product Note(http://www.windriver.com/products/product-notes/PN_IDPXT.pdf)
+- [Wind River Intelligent Device Platform XT Product Note](http://www.windriver.com/products/product-notes/PN_IDPXT.pdf)
