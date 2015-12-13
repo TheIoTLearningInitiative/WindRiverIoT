@@ -20,7 +20,7 @@ How to get started
 - Create a New Project
 - Create Your Application
 
-### Account
+### Sign Up for Free
 
 Go to https://app.cloud.windriver.com/user/register
 
