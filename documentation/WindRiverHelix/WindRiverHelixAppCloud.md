@@ -29,6 +29,7 @@ How to get started
 
 Create a new device from a pre-defined list of Software Developer Kits (SDKs)
 
+- Wind River Linux-7 for Intel Galileo
 - Wind River Rocket for Intel Galileo Gen 2
 - Wind River Rocket for Simulator
 - Pulsar Linux for Minnowboard Max
