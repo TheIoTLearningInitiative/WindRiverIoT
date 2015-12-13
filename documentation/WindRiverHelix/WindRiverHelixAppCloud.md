@@ -27,8 +27,9 @@ Go to https://app.cloud.windriver.com/user/register
 ### Create a New Project
 
 
+### Create Your Application
 
-### Video Tutorials
+## Video Tutorials
 
 - Rocket SDK Getting Started
 - Rocket SDK Debugger Workflow
