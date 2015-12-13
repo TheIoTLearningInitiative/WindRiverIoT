@@ -12,7 +12,7 @@ Wind River® Helix
   - Carrier-Grade Profile for Wind River Linux
   - Hyperscan
 - Clouds
-  - 
+  - Wind River Helix Device Cloud
 - System Simulation
 
 Links
