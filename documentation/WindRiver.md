@@ -28,7 +28,7 @@ Wind River®
 > Wind River® is an active participant and leader in critical industry standards initiatives for building highly interoperable and lower cost devices, systems, and networks.
 
 - [Open Stack Cloud Software](http://www.openstack.org/)
-- [Open Virtualization Alliance](
-- [ETSI World Class Standards](
-- [Open Networking Foundation](
+- [Open Virtualization Alliance](https://openvirtualizationalliance.org/)
+- [ETSI World Class Standards](http://www.etsi.org/)
+- [Open Networking Foundation](https://www.opennetworking.org/)
 - [](
