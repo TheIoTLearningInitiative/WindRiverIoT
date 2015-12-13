@@ -24,7 +24,7 @@ How to get started
 
 Go to https://app.cloud.windriver.com/user/register
 
-
+### Create a New Projkect
 
 ### Video Tutorials
 
