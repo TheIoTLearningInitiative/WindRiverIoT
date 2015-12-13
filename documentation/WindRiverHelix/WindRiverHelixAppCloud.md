@@ -45,8 +45,7 @@ __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
 In summary
 
-    Offline Device
-    VirtualDevice
+    VirtualDevice Offline Device
      Wind River Rocket for Intel x86 Simulator 1.0.0.1
     Description
      A Rocket OS distribution for QEMU x86 Quark
