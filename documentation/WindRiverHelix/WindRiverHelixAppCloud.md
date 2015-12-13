@@ -27,6 +27,8 @@ How to get started
 
 ### Create a New Device
 
+Select "New Device"
+
 #### New Device
 
 __Select the SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs) then select "Next"
