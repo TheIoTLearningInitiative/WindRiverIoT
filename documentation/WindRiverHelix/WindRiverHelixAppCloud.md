@@ -226,6 +226,7 @@ Check again Galileo2Device Summary
 Create a project by selecting "Create New Project". you will find several templates:
 
 - Analog Red/Write (ADC/PWM)
+- Digital Read/write (GPIO)
 
 Choose 
 
