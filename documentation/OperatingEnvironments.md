@@ -11,4 +11,4 @@ Operating Environments
 
 ## Wind River® Linux 
 
-http://www.windriver.com/products/linux/
+[Wind River® Linux](http://www.windriver.com/products/linux/)
