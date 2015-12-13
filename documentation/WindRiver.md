@@ -31,4 +31,4 @@ Wind River®
 - [Open Virtualization Alliance](https://openvirtualizationalliance.org/)
 - [ETSI World Class Standards](http://www.etsi.org/)
 - [Open Networking Foundation](https://www.opennetworking.org/)
-- [](https://www.opnfv.org/)
+- [Open Platform Network Function Virtualization](https://www.opnfv.org/)
