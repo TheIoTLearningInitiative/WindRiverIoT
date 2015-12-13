@@ -128,6 +128,8 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
 
 You can import existing projects from Github
 
+    xe1gyq@helix-app-cloud:~$ git clone https://github.com/...
+
 ## Video Tutorials
 
 - Rocket SDK Getting Started
