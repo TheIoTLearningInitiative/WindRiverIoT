@@ -29,4 +29,5 @@ Wind River®
 
 - Open Stack Cloud Software
 - Open Virtualization Alliance
+- ETSI World Class Standars
 - 
