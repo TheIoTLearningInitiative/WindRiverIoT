@@ -126,17 +126,7 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
 
 ### Applications Projects, Github
 
-Create a project called "any-emptyC" by selecting "Create New Project":
-
-Open "any-emptyC" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized
-
-#### __Cloud9 Workspace__ Console "bash - cloning..."
-
-Go to console "bash - cloning..." and type the following commands
-
-    xe1gyq@helix-app-cloud:~/any-emptyC$ ls
-    LICENSE-NOTICES.txt  Makefile  README.txt  prj.mdef  prj_arm.conf  prj_x86.conf  src  zephyr
-    xe1gyq@helix-app-cloud:~/any-emptyC$ 
+You can import existing projects from Github
 
 ## Video Tutorials
 
