@@ -227,7 +227,8 @@ Create a project by selecting "Create New Project". you will find several templa
 
 - Analog Red/Write (ADC/PWM)
 - Digital Read/write (GPIO)
-- 
+- Dining Philosophers
+- Empty C Project
 
 Choose 
 
