@@ -2,5 +2,5 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/introduction.md)
-* Wind River Helix
+* [Wind River Helix](WindRiverHelix.md)
 
