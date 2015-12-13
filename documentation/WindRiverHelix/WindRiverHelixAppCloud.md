@@ -130,7 +130,7 @@ Open "any-emptyC" by selecting "Open" green button, "Loading your Workspace" mes
 
 #### __Cloud9 Workspace__ Console "bash - cloning..."
 
-Go to console "bash - clonning..." and type the following commands
+Go to console "bash - cloning..." and type the following commands
 
     xe1gyq@helix-app-cloud:~$ pwd
     /users/xe1gyq
