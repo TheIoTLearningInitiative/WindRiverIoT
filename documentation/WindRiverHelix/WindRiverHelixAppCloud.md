@@ -65,7 +65,7 @@ Create 2 different projects by selecting "Create New Project":
 1. First called "MyDiningPhilosophers" based on "Dining Philosophers" Project Template
 2. Second called "MyHelloWorld" based on "Empty C Project"
 
-Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab
+Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized
 
 #### __Cloud9 Workspace__ Console "bash - helix app cloud"
 
