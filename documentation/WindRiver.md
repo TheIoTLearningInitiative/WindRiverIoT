@@ -14,6 +14,7 @@ the Internet of Things
 - Gateways
 - Edge Management
 - Simulation
+- Open Networks
 
 [Wind River® Products](http://www.windriver.com/products/)
 
