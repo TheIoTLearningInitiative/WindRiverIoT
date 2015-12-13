@@ -15,3 +15,17 @@ Operating Environments
 
 [Wind River® Linux](http://www.windriver.com/products/linux/)
 
+## Wind River Rocket
+
+> Help your Internet of Things (IoT) projects take off with Wind River® Rocket™, a free embedded operating system specifically designed to quickly and easily build small, intelligent devices.
+
+> Projects with Rocket are dramatically simplified by our new cloud-based development environment, Wind River Helix™ App Cloud. Find out more at the Rocket Developer Zone.
+
+- [Wind River Rocket Homepage](http://windriver.com/products/operating-systems/rocket/)
+
+## Wind River Pulsar Linux
+
+> Wind River® Pulsar™ Linux is a small, high-performance, secure, and manageable Linux distribution designed to simplify and speed your embedded and Internet of Things (IoT) development projects. Best of all, it is available at no additional cost on hardware boards from our trusted partners.
+
+- [Wind River Pulsar Homepage](http://www.windriver.com/products/operating-systems/pulsar/)
+
