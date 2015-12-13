@@ -155,7 +155,7 @@ In summary we need to:
 Download
 
     Offline
-    VirtualDevice
+    Galileo2Device
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
     Description
      Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® ..
