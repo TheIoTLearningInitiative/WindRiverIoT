@@ -39,6 +39,7 @@ __Select the SDK__ Register an existing device or create a new device from a pre
 
 __Enter a Device Name__ 
 
+Choose HelloVirtual
 
 
 ## Video Tutorials
