@@ -146,7 +146,7 @@ __Select the SDK__ Register an existing device or create a new device from a pre
 
 __Enter a Device Name__ Choose "Galileo2Device" then select "Create Device"
 
-#### Virtual Device Start
+#### Galileo 2 Start
 
 In summary
 
