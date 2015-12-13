@@ -55,8 +55,8 @@ __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
 Select
 
- - Start Device Simulation
- - Terminate Device Simulation
+ - __Start Device Simulation__, to start your Virtual Device
+ - __Terminate Device Simulation__, to stop your Virtual Device
 
 ### Applications Projects
 
