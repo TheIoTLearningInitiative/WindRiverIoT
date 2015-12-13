@@ -232,7 +232,7 @@ Create a project by selecting "Create New Project". you will find several templa
 - Grove-LCD
 - HTTP Server using LWIP Project
 
-Choose "Grove-LCD" template and use "MyGrove-LCD" as its name
+Choose "Grove-LCD" template and name it "MyGrove-LCD"
 
 Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized
 
