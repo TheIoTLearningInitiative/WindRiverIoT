@@ -21,7 +21,7 @@ Operating Environments
 
 > Projects with Rocket® are dramatically simplified by our new cloud-based development environment, Wind River Helix™ App Cloud. Find out more at the Rocket Developer Zone.
 
-- [Wind River Rocket Homepage](http://windriver.com/products/operating-systems/rocket/)
+- [Wind River® Rocket™ Homepage](http://windriver.com/products/operating-systems/rocket/)
 
 ## Wind River® Pulsar Linux
 
