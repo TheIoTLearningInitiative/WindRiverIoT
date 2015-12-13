@@ -148,15 +148,19 @@ __Enter a Device Name__ Choose "Galileo2Device" then select "Create Device"
 
 #### Galileo 2 Start
 
-In summary
+In summary we need to:
+
+- Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device
+- Device Virtual Gateway not connected
+Download
 
     Offline
     VirtualDevice
-     Wind River Rocket for Intel x86 Simulator 1.0.0.1
+     Wind River Rocket for Intel Galileo Gen2 1.0.0.1
     Description
      A Rocket OS distribution for QEMU x86 Quark
     Documentation
-     [Getting started with Rocket on QEMU x86]()
+     [Getting started with Rocket on Galileo Gen 2]()
     Registration ID
     Unique ID
 
