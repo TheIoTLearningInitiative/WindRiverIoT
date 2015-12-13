@@ -12,4 +12,4 @@
 
 ## Insights
 
-> 
+> For businesses to reap the full potential from the Internet of Things, they must address a host of issues, from security and standards to business models and device management.
