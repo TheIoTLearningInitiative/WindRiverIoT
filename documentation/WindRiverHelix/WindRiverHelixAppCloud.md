@@ -170,7 +170,8 @@ __Follow the instructions below to deploy Wind River Rocket for Intel Galileo Ge
 
 
 
-Device Virtual Gateway not connected
+__Device Virtual Gateway not connected__
+
 
 
  - __Start Device Simulation__, to start your Virtual Device
