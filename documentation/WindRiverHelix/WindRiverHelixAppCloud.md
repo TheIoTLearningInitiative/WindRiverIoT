@@ -67,7 +67,7 @@ Create 2 different projects by selecting "Create New Project":
 
 Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab
 
-#### bash - "helix app cloud"
+#### __Cloud9 Workspace__ bash - "helix app cloud"
 
 Go to console "bash - "helix app cloud" and type the following commands
 
@@ -78,7 +78,9 @@ Go to console "bash - "helix app cloud" and type the following commands
     xe1gyq@helix-app-cloud:~$ 
 
 
-#### outdir/zephyr.elf
+#### __Cloud9 Workspace__ outdir/zephyr.elf
+
+Select "Run Project" and go to console "outdir/zephyr.elf"
 
     make
     * Zephyr Kernel/x86 Configuration
