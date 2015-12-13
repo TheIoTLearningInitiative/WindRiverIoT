@@ -60,7 +60,7 @@ Select
 
 ### Applications Projects
 
-
+1. MyDiningPhilosophers
 
 ## Video Tutorials
 
