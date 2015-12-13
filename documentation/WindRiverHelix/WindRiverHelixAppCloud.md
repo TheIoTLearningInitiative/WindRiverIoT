@@ -229,7 +229,8 @@ Create a project by selecting "Create New Project". you will find several templa
 - Digital Read/write (GPIO)
 - Dining Philosophers
 - Empty C Project
-- 
+- Grove-LCD
+- HTTP Server using LWIP Project
 
 Choose 
 
