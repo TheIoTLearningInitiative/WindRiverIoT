@@ -23,6 +23,7 @@ How to get started
 ### Sign Up for Free
 
 Go to https://app.cloud.windriver.com/user/register
+If already registered https://app.cloud.windriver.com/
 
 ### Create a New Project
 
