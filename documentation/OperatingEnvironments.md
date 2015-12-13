@@ -15,7 +15,7 @@ Operating Environments
 
 [Wind River® Linux](http://www.windriver.com/products/linux/)
 
-## Wind River® Rocket
+## Wind River® Rocket™
 
 > Help your Internet of Things (IoT) projects take off with Wind River® Rocket™, a free embedded operating system specifically designed to quickly and easily build small, intelligent devices.
 
