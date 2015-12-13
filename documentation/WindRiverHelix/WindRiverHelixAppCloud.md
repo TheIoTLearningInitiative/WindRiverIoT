@@ -27,7 +27,9 @@ How to get started
 
 ### Create a New Project
 
-Create a new device from a pre-defined list of Software Developer Kits (SDKs)
+#### New Device
+
+__Select the SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs)
 
 - Wind River Linux-7 for Intel Galileo
 - Wind River Rocket for Intel Galileo Gen 2
@@ -35,9 +37,9 @@ Create a new device from a pre-defined list of Software Developer Kits (SDKs)
 - Pulsar Linux for Minnowboard Max
 - Pulsar Linux for ZedBoard.org Xilinx Zynq
 
-or Register an existing device
+__Enter a Device Name__
 
-### Create Your Application
+
 
 ## Video Tutorials
 
