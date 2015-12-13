@@ -41,7 +41,14 @@ __Select the SDK__ Register an existing device or create a new device from a pre
 
 __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
-    VirtualDevice   Wind River Rocket for Intel x86 Simulator 1.0.0.1
+    VirtualDevice
+     Wind River Rocket for Intel x86 Simulator 1.0.0.1
+    Description
+     A Rocket OS distribution for QEMU x86 Quark
+    Documentation
+     [Getting started with Rocket on QEMU x86]()
+    Registration ID
+    Unique ID
 
 ### 
 
