@@ -60,7 +60,9 @@ Select
 
 ### Applications Projects
 
-1. MyDiningPhilosophers
+Create 2 different projects by selecting "Create New Project"
+
+1. MyDiningPhilosophers based on 
 
 ## Video Tutorials
 
