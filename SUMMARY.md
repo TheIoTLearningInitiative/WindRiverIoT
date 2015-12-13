@@ -4,6 +4,6 @@
 * [Wind River](documentation/WindRiver.md)
 * [Internet of Things](documentation/InternetOfThings.md)
 * [Intelligent Device Platform XT](documentation/IntelligentDevicePlatformXT.md)
-* [Wind River Helix](documentation/WindRiverHelix/WindRiverHelix.md)
 * [Operating Environments](documentation/OperatingEnvironments.md)
+* [Wind River Helix](documentation/WindRiverHelix/WindRiverHelix.md)
 
