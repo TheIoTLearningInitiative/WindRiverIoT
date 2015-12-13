@@ -60,9 +60,10 @@ Select
 
 ### Applications Projects
 
-Create 2 different projects by selecting "Create New Project"
+Create 2 different projects by selecting "Create New Project":
 
-1. MyDiningPhilosophers based on 
+1. First called "MyDiningPhilosophers" based on "Dining Philosophers" Project Template
+2. 
 
 ## Video Tutorials
 
