@@ -15,7 +15,7 @@ Wind River®
 
 > With more than 30 years of embedded software experience, Wind River provides education services in every region of the world. We offer flexible training options to meet your business and learning needs, including public, private, and custom courses.
 
-[Wind River® Education Services]()
+[Wind River® Education Services](http://www.windriver.com/education/)
 
 ## Wind River® Customer Support
  
