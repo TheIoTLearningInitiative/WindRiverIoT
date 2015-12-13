@@ -169,7 +169,7 @@ Check Galileo2Device Summary
 
 __Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device__
 
-Click on "Generate and Download Device Image", from documentation:
+Click on "Generate and Download Device Image" and follow steps from online documentation:
 
 Use a Galileo Gen 2 SD card to boot the Rocket OS as follows:
 
