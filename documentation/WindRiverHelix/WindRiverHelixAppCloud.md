@@ -153,10 +153,6 @@ In summary we need to:
 - Deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device
 - Connect Device Virtual Gateway
 
-- Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device
-- Device Virtual Gateway not connected
-Download
-
 
     Galileo2Device
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
@@ -170,7 +166,10 @@ Download
     Registration ID
     Unique ID
 
-Now select
+Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device
+
+Device Virtual Gateway not connected
+
 
  - __Start Device Simulation__, to start your Virtual Device
  - __Terminate Device Simulation__, to stop your Virtual Device
