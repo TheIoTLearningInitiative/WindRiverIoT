@@ -192,6 +192,13 @@ __Device Virtual Gateway not connected__
     Successfully opened serial port "/dev/ttyUSB0"
 
 
+Check again Galileo2Device Summary
+
+    Galileo2Device
+     Wind River Rocket for Intel Galileo Gen2 1.0.0.1
+     Online Gateway
+     Online Device
+
 ### Applications Projects, Templates
 
 Create 2 different projects by selecting "Create New Project":
