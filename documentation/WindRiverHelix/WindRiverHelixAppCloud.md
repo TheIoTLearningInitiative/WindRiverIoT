@@ -156,9 +156,9 @@ Download
 
 
     Galileo2Device
-    Offline Device
-    Offline Gateway
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
+     Offline Device
+     Offline Gateway
     Description
      Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® ..
     Documentation
