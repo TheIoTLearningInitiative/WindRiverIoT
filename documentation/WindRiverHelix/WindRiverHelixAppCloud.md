@@ -71,6 +71,7 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 
 Go to console "bash - helix app cloud" and type the following commands
 
+    xe1gyq@helix-app-cloud:~$ cd
     xe1gyq@helix-app-cloud:~$ pwd
     /users/xe1gyq
     xe1gyq@helix-app-cloud:~$ ls
