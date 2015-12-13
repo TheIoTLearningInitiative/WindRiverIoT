@@ -240,12 +240,9 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
 
 Go to console "bash - helix app cloud" and type the following commands
 
-    xe1gyq@helix-app-cloud:~$ cd
-    xe1gyq@helix-app-cloud:~$ pwd
-    /users/xe1gyq
-    xe1gyq@helix-app-cloud:~$ ls
-    MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
-    xe1gyq@helix-app-cloud:~$ 
+    xe1gyq@helix-app-cloud:~/MyGrove-LCD$ ls
+    Makefile  README.txt  outdir  prj.mdef  prj_x86.conf  src  zephyr
+    xe1gyq@helix-app-cloud:~/MyGrove-LCD$ 
 
 #### __Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
