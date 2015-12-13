@@ -67,6 +67,8 @@ Create 2 different projects by selecting "Create New Project":
 
 Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab
 
+#### bash - "helix app cloud"
+
     xe1gyq@helix-app-cloud:~$ pwd
     /users/xe1gyq
     xe1gyq@helix-app-cloud:~$ ls
