@@ -28,4 +28,5 @@ Wind River®
 > Wind River® is an active participant and leader in critical industry standards initiatives for building highly interoperable and lower cost devices, systems, and networks.
 
 - Open Stack Cloud Software
+- Open Virtualization Alliance
 - 
