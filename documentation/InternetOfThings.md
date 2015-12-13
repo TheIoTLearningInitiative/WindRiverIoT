@@ -11,3 +11,5 @@
 > The Internet of Things is a system-of-systems. Efficiency and security are paramount as information about the physical environment moves from the edge to the enterprise.
 
 ## Insights
+
+> 
