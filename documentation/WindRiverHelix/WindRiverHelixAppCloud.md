@@ -144,7 +144,7 @@ __Select the SDK__ Register an existing device or create a new device from a pre
 - Pulsar Linux for Minnowboard Max
 - Pulsar Linux for ZedBoard.org Xilinx Zynq
 
-__Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
+__Enter a Device Name__ Choose "Galileo2Device" then select "Create Device"
 
 #### Virtual Device Start
 
