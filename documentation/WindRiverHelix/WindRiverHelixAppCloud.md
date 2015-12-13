@@ -45,7 +45,8 @@ __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
 In summary
 
-    VirtualDevice Offline Device
+    VirtualDevice
+    Offline Device
      Wind River Rocket for Intel x86 Simulator 1.0.0.1
     Description
      A Rocket OS distribution for QEMU x86 Quark
@@ -153,8 +154,10 @@ In summary we need to:
 - Device Virtual Gateway not connected
 Download
 
-    Offline
+
     Galileo2Device
+    Offline Device
+    Offline Gateway
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
     Description
      Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® ..
