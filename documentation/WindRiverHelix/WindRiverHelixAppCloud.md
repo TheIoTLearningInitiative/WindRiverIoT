@@ -180,6 +180,7 @@ Click on "Generate and Download Device Image" and follow steps from online docum
 
 __Device Virtual Gateway not connected__
 
+Download 
 
     xe1gyq@jessie:~/Downloads/IntelGalileoGateway/Galileo2Device-virtual-gateway$ sh Galileo2Device-virtual-gateway.sh 
     
