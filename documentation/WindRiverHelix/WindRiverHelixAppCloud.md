@@ -41,7 +41,7 @@ __Select the SDK__ Register an existing device or create a new device from a pre
 
 __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
-#### Virtual Device Summary
+#### Virtual Device
 
     Offline
     VirtualDevice
