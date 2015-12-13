@@ -81,13 +81,13 @@ Go to console "bash - "helix app cloud" and type the following commands
 #### outdir/zephyr.elf
 
     make
-
-  SYSMAP  System.map
-make[2]: Leaving directory '/users/xe1gyq/MyHelloWorld/outdir'
-make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
-Loading /users/xe1gyq/MyHelloWorld//outdir/zephyr.elf on target...  done
-Starting application...  done
-Application is now running
+    ...
+      SYSMAP  System.map
+    make[2]: Leaving directory '/users/xe1gyq/MyHelloWorld/outdir'
+    make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
+    Loading /users/xe1gyq/MyHelloWorld//outdir/zephyr.elf on target...  done
+    Starting application...  done
+    Application is now running
 
 
 ## Video Tutorials
