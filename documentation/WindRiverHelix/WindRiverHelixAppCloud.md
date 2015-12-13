@@ -29,7 +29,7 @@ How to get started
 
 #### New Device
 
-__Select the SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs) then select Next
+__Select the SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs) then select "Next"
 
 - Wind River Linux-7 for Intel Galileo
 - Wind River Rocket for Intel Galileo Gen 2
@@ -37,7 +37,7 @@ __Select the SDK__ Register an existing device or create a new device from a pre
 - Pulsar Linux for Minnowboard Max
 - Pulsar Linux for ZedBoard.org Xilinx Zynq
 
-__Enter a Device Name__ Choose "HelloVirtual" then select Next
+__Enter a Device Name__ Choose "HelloVirtual" then select "Create Device"
 
 
 ## Video Tutorials
