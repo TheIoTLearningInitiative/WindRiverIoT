@@ -5,6 +5,6 @@ Wind River®
 
 - [Wind River Homepage](http://www.windriver.com/)
 
-## Wind River®
+## Wind River® Professional Services
  
 
