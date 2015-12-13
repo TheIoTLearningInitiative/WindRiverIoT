@@ -55,7 +55,7 @@ In summary
     Registration ID
     Unique ID
 
-Select
+Now select
 
  - __Start Device Simulation__, to start your Virtual Device
  - __Terminate Device Simulation__, to stop your Virtual Device
