@@ -66,6 +66,7 @@ Create 2 different projects by selecting "Create New Project":
 2. Second called "MyHelloWorld" based on "Empty C Project"
 
 
+
     xe1gyq@helix-app-cloud:~$ pwd
     /users/xe1gyq
     xe1gyq@helix-app-cloud:~$ ls
