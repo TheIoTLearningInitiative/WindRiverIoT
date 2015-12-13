@@ -65,7 +65,7 @@ Create 2 different projects by selecting "Create New Project":
 1. First called "MyDiningPhilosophers" based on "Dining Philosophers" Project Template
 2. Second called "MyHelloWorld" based on "Empty C Project"
 
-Open "MyHelloWorld" by selecting , Loading your Workspace" message will appear shortly
+Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab
 
     xe1gyq@helix-app-cloud:~$ pwd
     /users/xe1gyq
