@@ -78,7 +78,7 @@ Go to console "bash - "helix app cloud" and type the following commands
     xe1gyq@helix-app-cloud:~$ 
 
 
-#### __Cloud9 Workspace__ outdir/zephyr.elf
+#### __Cloud9 Workspace__ "outdir/zephyr.elf - Running"
 
 Select "Run Project" and go to console "outdir/zephyr.elf"
 
