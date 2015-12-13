@@ -19,6 +19,6 @@ Wind River®
 
 ## Wind River® Customer Support
  
-> 
+> Intelligent Device Platform XT is backed by our award-winning global support organization. With six major support centers, 21 additional support hubs, and more than 150 experts worldwide, you can get the help you need in the language and time zone that work best for you. 
 
 [Wind River® Customer Support]()
