@@ -16,7 +16,7 @@ Wind River® Helix™ App Cloud
 
 ### Account
 
-
+https://app.cloud.windriver.com/user/register
 
 ### Video Tutorials
 
