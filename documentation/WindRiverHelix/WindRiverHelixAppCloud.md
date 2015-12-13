@@ -51,7 +51,7 @@ __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
     Registration ID
     Unique ID
 
-### Start Device Simulation
+### Applications Projects Start Device Simulation
 
 ## Video Tutorials
 
