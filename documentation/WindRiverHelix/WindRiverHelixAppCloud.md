@@ -122,6 +122,8 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
     Starting application...  done
     Application is now running
 
+### Applications Projects
+
 ## Video Tutorials
 
 - Rocket SDK Getting Started
