@@ -22,6 +22,7 @@ Links
 
 - [Wind River® Helix Cloud Homepage](http://www.windriver.com/products/helix/helix-cloud/)
 - [Wind River Helix Cloud Overview](http://www.windriver.com/products/product-overviews/wr-helix-cloud_overview.pdf)
+- [Wind River Helix Cloud Infograpic](http://www.windriver.com/products/helix/helix-cloud-infographic/helix-cloud-infographic.pdf)
 
 ### Wind River® Helix App Cloud
 
