@@ -8,6 +8,7 @@ Wind River® Helix
 - Gateway
   - Wind River Intelligence Device Platform XT
 - Networks
+  - Wind River Titanium Server
   - 
 - Clouds
 - System Simulation
