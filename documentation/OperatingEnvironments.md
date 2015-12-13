@@ -11,6 +11,6 @@ Operating Environments
 
 ## Wind River® Linux 
 
-> 
+> The Best of Both Worlds. Wind River® Linux combines the assurance and reliability that comes with our 30 years of embedded industry leadership with the flexibility and freedom of open source software.
 
 [Wind River® Linux](http://www.windriver.com/products/linux/)
