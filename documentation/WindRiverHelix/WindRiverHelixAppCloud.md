@@ -120,7 +120,6 @@ Go to console "bash - "helix app cloud" and type the following commands
     Starting application...  done
     Application is now running
 
-
 ## Video Tutorials
 
 - Rocket SDK Getting Started
