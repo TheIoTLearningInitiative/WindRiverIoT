@@ -22,8 +22,8 @@ How to get started
 
 ### Sign Up for Free
 
-Go to https://app.cloud.windriver.com/user/register
-If already registered https://app.cloud.windriver.com/
+1. Go to https://app.cloud.windriver.com/user/register
+2. If already registered https://app.cloud.windriver.com/
 
 ### Create a New Project
 
