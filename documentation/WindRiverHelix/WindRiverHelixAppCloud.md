@@ -132,9 +132,9 @@ Open "any-emptyC" by selecting "Open" green button, "Loading your Workspace" mes
 
 Go to console "bash - cloning..." and type the following commands
 
-    xe1gyq@helix-app-cloud:~$ pwd
-    /users/xe1gyq
-
+    xe1gyq@helix-app-cloud:~/any-emptyC$ ls
+    LICENSE-NOTICES.txt  Makefile  README.txt  prj.mdef  prj_arm.conf  prj_x86.conf  src  zephyr
+    xe1gyq@helix-app-cloud:~/any-emptyC$ 
 
 ## Video Tutorials
 
