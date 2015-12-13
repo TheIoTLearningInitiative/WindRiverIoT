@@ -25,7 +25,7 @@ How to get started
 1. Go to https://app.cloud.windriver.com/user/register
 2. If already registered https://app.cloud.windriver.com/
 
-### Create a New Device
+### Virtual Device Create a New Device
 
 Select "New Device" from upper right corner
 
