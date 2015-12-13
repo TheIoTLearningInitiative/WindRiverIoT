@@ -6,7 +6,9 @@ Wind River® Helix
 - Devices & Sensors
   - VxWorks, Wind River Linux 
 - Gateway
+  - Wind River Intelligence Device Platform XT
 - Networks
+  - 
 - Clouds
 - System Simulation
 
