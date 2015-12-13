@@ -3,14 +3,19 @@ Wind River®
 
 > Wind River, a wholly owned subsidiary of Intel Corporation (NASDAQ: INTC), is a world leader in embedded software for intelligent connected systems. The company has been pioneering computing inside embedded devices since 1981, and its technology is found in more than 1 billion products. Wind River offers the industry's most comprehensive embedded software portfolio, supported by world-class global professional services and support and a broad partner ecosystem. Wind River delivers the technology and expertise that enables the innovation and deployment of safe, secure, and reliable intelligent systems. 
 
-[Wind River Homepage](http://www.windriver.com/)
+[Wind River® Homepage](http://www.windriver.com/)
 
 ## Wind River® Products
 
 - Wind River Helix: The Software Foundation for 
 the Internet of Things
-- 
+- Operating Systems
+- Network Infrastructure
+- Gateways
+- Edge Management
+- Simulation
 
+[Wind River® Products](http://www.windriver.com/products/)
 
 ## Wind River® Professional Services
 
