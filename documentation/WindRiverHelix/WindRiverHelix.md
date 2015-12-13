@@ -14,6 +14,7 @@ Wind River® Helix
 - Clouds
   - Wind River Helix Device Cloud
 - System Simulation
+  - Wind River Simics
 
 Links
 
