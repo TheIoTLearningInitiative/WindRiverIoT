@@ -180,7 +180,16 @@ Click on "Generate and Download Device Image" and follow steps from online docum
 
 __Device Virtual Gateway not connected__
 
-Download 
+
+    You have to run a Virtual Gateway application on your desktop to use this device.
+    The Virtual Gateway is specific to a device; you must download and run a different Virtual Gateway for each different device.
+
+    To run the Virtual Gateway you must:
+    - Download it for your device by clicking on the Download button
+    - Unzip the archive on your host, and double click on the launch script Galileo2Device-virtual-gateway.sh
+    - When prompted, enter the serial port connected to your device
+
+These
 
     xe1gyq@jessie:~/Downloads/IntelGalileoGateway/Galileo2Device-virtual-gateway$ sh Galileo2Device-virtual-gateway.sh 
     
