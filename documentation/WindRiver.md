@@ -15,8 +15,6 @@ Wind River®
 
 > With more than 30 years of embedded software experience, Wind River provides education services in every region of the world. We offer flexible training options to meet your business and learning needs, including public, private, and custom courses.
 
-> According to the VDC's latest research, two of the top five factors contributing to project delays are the complexity of the application and technical obstacles. No matter how experienced your engineers are, learning to use new technology is mission-critical. To help you overcome these barriers, Wind River® offers flexible training options to meet your business and learning needs
-
 [Wind River® Education Services](http://www.windriver.com/education/)
 
 ## Wind River® Customer Support
