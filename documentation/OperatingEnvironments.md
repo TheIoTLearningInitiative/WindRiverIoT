@@ -33,7 +33,7 @@ Operating Environments
 
 ## Virtualization
 
-> 
+> Tapping the power of multi-core computing. We're uniquely qualified to help you master the challenges of building smart, connected devices with embedded virtualization. Our solutions support multiple architectures, including Intel®, Power, ARM®, and MIPS, and are backed by outstanding professional services and customer support, hardware integration expertise, and a thriving partner ecosystem.
 
 > Get More from Your Silicon. Wind River® is uniquely qualified to help you master the opportunities for creating far more efficient and flexible embedded computing environments for building the next generation of smart, connected devices, systems, and networks.
 
