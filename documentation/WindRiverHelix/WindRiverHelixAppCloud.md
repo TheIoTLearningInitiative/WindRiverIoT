@@ -41,6 +41,8 @@ __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
     VirtualDevice   Wind River Rocket for Intel x86 Simulator 1.0.0.1
 
+### 
+
 ## Video Tutorials
 
 - Rocket SDK Getting Started
