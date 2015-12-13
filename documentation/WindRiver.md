@@ -7,8 +7,8 @@ Wind River®
 
 ## Wind River® Professional Services
 
-## Wind River® Education
+## Wind River® Education Services
 
-## Wind River®
+## Wind River® Customer Support
  
 
