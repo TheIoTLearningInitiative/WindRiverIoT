@@ -23,7 +23,7 @@ Operating Environments
 
 - [Wind River® Rocket™ Homepage](http://windriver.com/products/operating-systems/rocket/)
 
-## Wind River® Pulsar Linux
+## Wind River® Pulsar™ Linux
 
 > Preloaded on hardware boards from our trusted partners, Wind River Pulsar™ Linux is a small, certified, and secure Linux operating system for any kind of embedded and IoT device.
 
