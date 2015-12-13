@@ -223,10 +223,10 @@ Check again Galileo2Device Summary
 
 > Application Projects. This is the central place to manage your projects. Click on the button below to create your first project.
 
-Create a project by selecting "Create New Project":
+Create a project by selecting "Create New Project". you will find several templates:
 
-1. First called "MyDiningPhilosophers" based on "Dining Philosophers" Project Template
-2. Second called "MyHelloWorld" based on "Empty C Project"
+
+Choose 
 
 Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized
 
