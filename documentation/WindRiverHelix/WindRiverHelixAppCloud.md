@@ -153,7 +153,7 @@ In summary we need to:
 - Deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device
 - Connect Device Virtual Gateway
 
-
+Check 
     Galileo2Device
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
      Offline Gateway
