@@ -43,6 +43,8 @@ __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
 #### Virtual Device Start
 
+In summary
+
     Offline
     VirtualDevice
      Wind River Rocket for Intel x86 Simulator 1.0.0.1
