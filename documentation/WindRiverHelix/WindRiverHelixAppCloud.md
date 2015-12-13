@@ -160,7 +160,7 @@ Download
     Description
      Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® ..
     Documentation
-     [Hoide deployment instructions]()
+     [Hide deployment instructions]()
      [Getting started with Rocket on Galileo Gen 2]()
     Registration ID
     Unique ID
