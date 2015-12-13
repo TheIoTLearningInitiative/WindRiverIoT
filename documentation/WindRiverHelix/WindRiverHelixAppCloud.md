@@ -24,6 +24,8 @@ How to get started
 
 Go to https://app.cloud.windriver.com/user/register
 
+
+
 ### Video Tutorials
 
 - Rocket SDK Getting Started
