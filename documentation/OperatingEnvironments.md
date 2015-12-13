@@ -41,7 +41,7 @@ Operating Environments
 
 ## Wind River® Development Tools
 
-> Best-in-class help for building embedded software Wind River Workbench and Wind River Diab Compiler are best-in-class tools for building embedded software devices, systems, or networks. We have built our tools from 30 years of industry leadership and technical innovation. They can help streamline design, production, and maintenance tasks while helping boost quality.
+> Best-in-class help for building embedded software. Wind River Workbench and Wind River Diab Compiler are best-in-class tools for building embedded software devices, systems, or networks. We have built our tools from 30 years of industry leadership and technical innovation. They can help streamline design, production, and maintenance tasks while helping boost quality.
 
 > Build with the Best. For 30 years Wind River® has been creating tools for embedded software development. We have helped software developers from around the world meet the most demanding device, system, and networking requirements.
 
