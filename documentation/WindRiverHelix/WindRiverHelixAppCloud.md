@@ -78,7 +78,6 @@ Go to console "bash - helix app cloud" and type the following commands
     MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
     xe1gyq@helix-app-cloud:~$ 
 
-
 #### __Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
 Select "Run Project" and go to console "outdir/zephyr.elf"
