@@ -168,6 +168,8 @@ In summary we need to:
 
 Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device
 
+
+
 Device Virtual Gateway not connected
 
 
