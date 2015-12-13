@@ -173,6 +173,23 @@ __Follow the instructions below to deploy Wind River Rocket for Intel Galileo Ge
 __Device Virtual Gateway not connected__
 
 
+    xe1gyq@jessie:~/Downloads/IntelGalileoGateway/Galileo2Device-virtual-gateway$ sh Galileo2Device-virtual-gateway.sh 
+    
+    Helix App Cloud Virtual Gateway for device Galileo2Device on server https://app.cloud.windriver.com
+    Version: 0.2
+    
+    Provide the name of the serial port your device is connected to:
+    Serial port: /dev/ttyUSB0
+    Connecting serial port with serial parameters (from the SDK): 115200-8-N-1-N
+    
+    Configure a SOCKS v5 proxy to access App Cloud server (y/n, default is n): n
+    
+    Starting the Virtual Gateway for Galileo2Device.
+    Connecting to Helix App Cloud server...
+    Connection with Helix App Cloud server has been established
+    Received connection request for serial port "/dev/ttyUSB0"
+    Successfully opened serial port "/dev/ttyUSB0"
+
 
 ### Applications Projects, Templates
 
