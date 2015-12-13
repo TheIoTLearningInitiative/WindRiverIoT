@@ -9,7 +9,8 @@ Wind River® Helix
   - Wind River Intelligence Device Platform XT
 - Networks
   - Wind River Titanium Server
-  - 
+  - Carrier-Grade Profile for Wind River Linux
+  - Hyperscan
 - Clouds
 - System Simulation
 
