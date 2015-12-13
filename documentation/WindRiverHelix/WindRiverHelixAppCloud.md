@@ -27,7 +27,7 @@ How to get started
 
 ### Create a New Device
 
-Select "New Device"
+Select "New Device" from upper right corner
 
 #### New Device
 
