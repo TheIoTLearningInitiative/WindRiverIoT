@@ -16,7 +16,9 @@ Wind River® Helix™ App Cloud
 
 How to get started
 
-
+- Sign Up for Free
+- Create a New Project
+- Create Your Application
 
 ### Account
 
