@@ -243,7 +243,7 @@ Go to console "bash - helix app cloud" and type the following commands
 
     xe1gyq@helix-app-cloud:~/MyGrove-LCD$ ls
     Makefile  README.txt  outdir  prj.mdef  prj_x86.conf  src  zephyr
-    xe1gyq@helix-app-cloud:~/MyGrove-LCD$ 
+    xe1gyq@helix-app-cloud:~/MyGrove-LCD$ make menuconfig
 
 #### __MyGrove-LCD Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
