@@ -70,6 +70,7 @@ https://lab.cloud.windriver.com/download/helix-network-proxy?os=linux&arch=x86
 
 ### New Session
 
+#### 
 Select "New Sessions"
 
 1. Select the Platform "Demo Wind River Rocket Hello World Program running on Intel" and click on "Next"
