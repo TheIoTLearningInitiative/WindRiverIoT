@@ -82,7 +82,7 @@ Select "New Sessions"
     [   24.800064] br0: port 1(eth0) entered forwarding state
     root@cube-31-10-15-domE:~# 
 
-#### Console Domain0
+### MyCorei7, Console Domain0
 
     cube-31-10-15-dom0 login: rootPassword: 
     root@cube-31-10-15-dom0:~# 
