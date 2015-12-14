@@ -30,7 +30,9 @@ Wind River® Helix™ Lab Cloud
 - PowerPC e600 Virtual
 - PowerPC e6500 Virtual
 
-### New Session 
+### New Session
+
+
 
     ACPI 2.0 table at: 0F01E014                       
     Loading from disk...   
