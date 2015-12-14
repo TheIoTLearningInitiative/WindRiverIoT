@@ -11,7 +11,7 @@ Wind River® Helix™ Lab Cloud
 - Debug with full control and flexibility. Test software at any time.
 - Collaborate easily with anyone and provide to your team full visibility and access
 
-### Host Setup
+### Helix Lab Network Proxy
 
 1. Log in to Wind River® Helix™ Lab Cloud
 2. Go to "User Profile"
