@@ -15,7 +15,7 @@ Wind River® Helix™ Lab Cloud
 
 1. Log in to Wind River® Helix™ Lab Cloud
 2. Go to "User Profile"
-3. Select "+" from "Web APIs <> User Access token"
+3. Select "+" from "Web APIs <> User Access Token"
 
     Web APIs access token
     New access token is : 
