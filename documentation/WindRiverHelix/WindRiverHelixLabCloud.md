@@ -80,7 +80,7 @@ Select "New Sessions"
     [   23.456140] br0: port 1(eth0) entered forwarding state
     [   24.544063] br0: port 3(veth2J79XH) entered forwarding state
     [   24.800064] br0: port 1(eth0) entered forwarding state
-    
+    root@cube-31-10-15-domE:~# 
 
 
 #### Helix Lab Network Proxy
