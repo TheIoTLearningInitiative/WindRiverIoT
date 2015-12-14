@@ -27,3 +27,16 @@ Wind River® Helix™ Lab Cloud
 - Intel MinnowMax Virtual
 - PowerPC e600 Virtual
 - PowerPC e6500 Virtual
+- 
+
+
+ACPI 2.0 table at: 0F01E014                       
+Loading from disk...   
+Opening [\EFI\BOOT\bootapp.sys]... FSOpen: Open '\EFI\BOOT\bootapp.sys' Success
+Read 481046 bytes.
+Loading 32-bit ELF image.
+Total memory: 265023488 bytes
+CSM video not available.                       
+Booting...        
+Jumping to boot image at 0x100000...
+Hello World
