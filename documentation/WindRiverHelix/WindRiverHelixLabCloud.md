@@ -100,6 +100,7 @@ Select "New Sessions"
     Please copy this access token, it will no longer be accessible after closing this dialog box.
 
 4. Click on "?" from "Helix Lab Network Proxy" Documentation
+5. 
 
 On Host
 
