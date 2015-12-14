@@ -158,5 +158,5 @@ Select "New Sessions"
     Fetching information for 'core2_64'...
     Fetching information for 'intel_corei7_64'...
 
-## MyMinnowboardMax, Demo Wind River Pulsar Linux 7 Core i7
+## MyMinnowboardMax, Demo Wind River Linux 7 Minnowboard MAX
 
