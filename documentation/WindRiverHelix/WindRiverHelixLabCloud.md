@@ -30,7 +30,7 @@ Wind River® Helix™ Lab Cloud
 - PowerPC e600 Virtual
 - PowerPC e6500 Virtual
 
-### Demo Galileo Virtual Hello World
+### Demo Galileo Virtual Rocket Hello World
 
 Select "New Sessions"
 
