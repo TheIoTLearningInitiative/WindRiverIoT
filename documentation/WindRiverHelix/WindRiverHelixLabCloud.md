@@ -88,7 +88,7 @@ Select "New Sessions"
     root@cube-31-10-15-dom0:~# 
 
 
-#### Helix Lab Network Proxy
+### MyCorei7, Helix Lab Network Proxy
 
 1. Log in to Wind River® Helix™ Lab Cloud
 2. Go to "User Profile"
