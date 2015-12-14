@@ -98,8 +98,9 @@ Select "New Sessions"
     New access token is : 
     CFE_a33c6ff3_a345_896b_6473_e957b23d8675
     Please copy this access token, it will no longer be accessible after closing this dialog box.
-    
-https://lab.cloud.windriver.com/download/helix-network-proxy?os=linux&arch=x86
+
+4. Click on 
+
 
     # apt-get install --yes nodejs
     xe1gyq@jessie:~/Downloads/helix$ #unzip helix-lab-network-proxy.zip 
