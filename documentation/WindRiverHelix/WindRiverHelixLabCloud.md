@@ -27,7 +27,8 @@ Wind River® Helix™ Lab Cloud
 - Intel MinnowMax Virtual
 - PowerPC e600 Virtual
 - PowerPC e6500 Virtual
-- 
+
+
 
 
     ACPI 2.0 table at: 0F01E014                       
