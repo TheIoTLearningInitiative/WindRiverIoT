@@ -115,7 +115,7 @@ Select "New Sessions"
 - Download and Install "Client Connection Software"
 
 
-    xe1gyq@jessie:~/Downloads/helix$ unzip helix-lab-network-proxy.zip 
+    xe1gyq@jessie:~/Downloads/helix$ unzip helix-lab-network-proxy.zip
     xe1gyq@jessie:~/Downloads/helix$ cd helix-lab-network-proxy/
     xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ls
     connection.json              helix-lab-network-proxy.js  node_modules    sails.js       terminal.js
