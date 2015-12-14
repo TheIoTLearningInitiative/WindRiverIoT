@@ -5,4 +5,8 @@ Wind River® Helix™ Lab Cloud
 
 ## Getting Started
 
-- 
+- Instantly access hardware environments from anywhere.
+- Debug with full control and flexibility. Test software at any time.
+- Collaborate easily with anyone and provide to your team full visibility and access
+
+
