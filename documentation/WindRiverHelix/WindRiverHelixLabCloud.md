@@ -30,7 +30,7 @@ Wind River® Helix™ Lab Cloud
 - PowerPC e600 Virtual
 - PowerPC e6500 Virtual
 
-### New Session
+### Demo Hello World
 
 Select "New Sessions"
 
