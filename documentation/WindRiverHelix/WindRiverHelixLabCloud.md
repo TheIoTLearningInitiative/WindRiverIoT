@@ -54,7 +54,7 @@ Select "New Sessions"
     Hello World
     ...
 
-### Demo Wind River Pulsar Linux 7 Core i7, MyCorei7
+### MyCorei7, Demo Wind River Pulsar Linux 7 Core i7
 
 Select "New Sessions"
 
@@ -62,7 +62,7 @@ Select "New Sessions"
 2. Enter a Session Name "MyCorei7" and click on "Create Session"
 3. Click on "Resume the Simulation" button
 
-#### Console DomainE
+### MyCorei7, Console DomainE
 
     Pulsar Linux 7.0.0.10 cube-31-10-15-domE ttyS0
     cube-31-10-15-domE login: root
