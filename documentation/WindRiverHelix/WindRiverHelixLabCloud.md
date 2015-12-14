@@ -136,3 +136,4 @@ Select "New Sessions"
     MyCorei7: Network proxy server running: 40733 -> 22
     MyCorei7: Network proxy server running: 42729 -> 1534
 
+### MyCorei7, Remote Connection
