@@ -15,9 +15,10 @@ Wind River® Helix™ Lab Cloud
 
 1. Log in to Wind River® Helix™ Lab Cloud
 2. Go to "User Profile"
-3. 
+3. Select "+" from "Web APIs User access token"
 
     # apt-get install --yes nodejs
+
 
 
     Web APIs access token
