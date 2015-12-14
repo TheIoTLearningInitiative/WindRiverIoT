@@ -106,10 +106,11 @@ Please copy this access token, it will no longer be accessible after closing thi
 ](https://lab.cloud.windriver.com/documents/networkproxy/network_installation)
    - [Lab Cloud Networking Getting Started](https://lab.cloud.windriver.com/documents/networkproxy/network_getting_started)
    - [Lab Cloud Networking Example](https://lab.cloud.windriver.com/documents/networkproxy/network_examples)
+5. Install NodeJS in your Host
+    # apt-get install --yes nodejs
 5. Download and Install "Client Connection Software"
 
 
-    # apt-get install --yes nodejs
     xe1gyq@jessie:~/Downloads/helix$ #unzip helix-lab-network-proxy.zip 
     xe1gyq@jessie:~/Downloads/helix$ cd helix-lab-network-proxy/
     xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ls
