@@ -49,7 +49,6 @@ https://lab.cloud.windriver.com/download/helix-network-proxy?os=linux&arch=x86
     MyPlatformi7: Network proxy server running: 51868 -> 22
     MyPlatformi7: Network proxy server running: 54354 -> 1534
 
-
 ### Sessions
 
 > This is the central place to manage your Simics sessions. Click on the topbar buttons to create your first session.
