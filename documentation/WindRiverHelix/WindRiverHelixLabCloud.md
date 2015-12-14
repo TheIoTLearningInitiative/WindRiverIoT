@@ -160,4 +160,4 @@ Select "New Sessions"
 
 ## MyMinnowboardMax, Demo Wind River Linux 7 Minnowboard MAX
 
-Create, deploy
+Create, deploy, 
