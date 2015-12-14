@@ -20,4 +20,6 @@ Wind River® Helix™ Lab Cloud
 - Demo - Wind River Rocket Hello World
 - Freescale P2020DS Virtual
 - Freescale P3041DS Virtual
+- Freescale P4080DS Virtual 
+- Intel Core i7 virtual
 - 
