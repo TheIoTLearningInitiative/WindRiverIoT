@@ -54,7 +54,7 @@ Select "New Sessions"
     Hello World
     ...
 
-### Demo Hello World
+### Demo Minnowboard MAX Virtual Hello World
 
 ### Helix Lab Network Proxy
 
