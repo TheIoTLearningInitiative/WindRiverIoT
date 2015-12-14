@@ -11,6 +11,10 @@ Wind River® Helix™ Lab Cloud
 - Debug with full control and flexibility. Test software at any time.
 - Collaborate easily with anyone and provide to your team full visibility and access
 
+### Host Setup
+
+https://lab.cloud.windriver.com/download/helix-network-proxy?os=linux&arch=x86
+
 ### Sessions
 
 > This is the central place to manage your Simics sessions. Click on the topbar buttons to create your first session.
