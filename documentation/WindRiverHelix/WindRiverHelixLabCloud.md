@@ -63,6 +63,7 @@ Select "New Sessions"
 3. Click on "Resume the Simulation" button
 
 
+
 #### Helix Lab Network Proxy
 
 1. Log in to Wind River® Helix™ Lab Cloud
