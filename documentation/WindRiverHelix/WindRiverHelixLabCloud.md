@@ -26,4 +26,4 @@ Wind River® Helix™ Lab Cloud
 - Intel Galileo running Wind River Rocket
 - Intel MinnowMax Virtual
 - PowerPC e600 Virtual
-- PowerPC e500 Virtual
+- PowerPC e6500 Virtual
