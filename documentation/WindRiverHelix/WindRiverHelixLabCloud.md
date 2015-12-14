@@ -30,7 +30,7 @@ Wind River® Helix™ Lab Cloud
 - PowerPC e600 Virtual
 - PowerPC e6500 Virtual
 
-### MyPlatformGalileo, Demo Wind River Rocket Galileo
+## MyPlatformGalileo, Demo Wind River Rocket Galileo
 
 Select "New Sessions"
 
@@ -54,7 +54,7 @@ Select "New Sessions"
     Hello World
     ...
 
-### MyCorei7, Demo Wind River Pulsar Linux 7 Core i7
+## MyCorei7, Demo Wind River Pulsar Linux 7 Core i7
 
 Select "New Sessions"
 
