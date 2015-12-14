@@ -56,7 +56,7 @@ Select "New Sessions"
 
 ### Demo Minnowboard MAX Virtual Pulsar Linux Hello World
 
-### Helix Lab Network Proxy
+#### Helix Lab Network Proxy
 
 1. Log in to Wind River® Helix™ Lab Cloud
 2. Go to "User Profile"
