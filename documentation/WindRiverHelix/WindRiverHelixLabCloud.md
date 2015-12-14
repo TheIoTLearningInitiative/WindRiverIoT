@@ -92,3 +92,20 @@ Select "New Sessions"
     Hello World
     ...
 
+
+xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ssh root@127.0.0.1 -p 51868
+
+The authenticity of host '[127.0.0.1]:51868 ([127.0.0.1]:51868)' can't be established.
+ECDSA key fingerprint is ca:3e:b3:c0:3b:6b:f6:04:03:44:ae:27:e0:7d:a5:98.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '[127.0.0.1]:51868' (ECDSA) to the list of known hosts.
+root@127.0.0.1's password: 
+Permission denied, please try again.
+root@127.0.0.1's password: 
+Permission denied, please try again.
+root@127.0.0.1's password: 
+Permission denied (publickey,password).
+xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ssh root@127.0.0.1 -p 51868
+root@127.0.0.1's password: 
+Last login: Wed Dec  2 07:00:35 2015
+root@cube-31-10-15-domE:~# 
