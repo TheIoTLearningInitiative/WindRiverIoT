@@ -59,7 +59,7 @@ Select "New Sessions"
 Select "New Sessions"
 
 1. Select the Platform "Intel Core i7 Virtual System running Wind River Pulsar Linux 7" and click on "Next"
-2. Enter a Session Name "MyCorei7"
+2. Enter a Session Name "MyCorei7" and click on "Create Session" 
 3. Click on "Resume the Simulation" button
 
 > Demo - Wind River Rocket 'Hello World' program running on Intel 1.0.0.1. Demo of a simple Wind River Rocket program running on an Intel Quark Galileo Virtual System.
