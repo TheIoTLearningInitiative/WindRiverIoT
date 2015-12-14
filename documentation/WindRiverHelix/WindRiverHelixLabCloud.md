@@ -101,8 +101,9 @@ Select "New Sessions"
 
 4. Click on "?" from "Helix Lab Network Proxy" Documentation
 
+- [Client Connection Software Installation Instructions
+](https://lab.cloud.windriver.com/documents/networkproxy/network_installation)
 - [Lab Cloud Networking Getting Started](https://lab.cloud.windriver.com/documents/networkproxy/network_getting_started)
-- []()
 - [Lab Cloud Networking Example](https://lab.cloud.windriver.com/documents/networkproxy/network_examples)
 
 On Host
