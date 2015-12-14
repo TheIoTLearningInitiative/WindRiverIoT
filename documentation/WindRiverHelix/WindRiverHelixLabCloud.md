@@ -68,7 +68,7 @@ https://lab.cloud.windriver.com/download/helix-network-proxy?os=linux&arch=x86
     MyPlatformi7: Network proxy server running: 51868 -> 22
     MyPlatformi7: Network proxy server running: 54354 -> 1534
 
-### New Session 
+### New Session
 
 Select "New Sessions"
 
