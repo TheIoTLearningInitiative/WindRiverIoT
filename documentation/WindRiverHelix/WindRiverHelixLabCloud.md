@@ -90,9 +90,9 @@ Select "New Sessions"
 
 ### MyCorei7, Helix Lab Network Proxy
 
-1. Log in to Wind River® Helix™ Lab Cloud
-2. Go to "User Profile"
-3. Select "+" under "Web APIs <> User Access Token" and copy your key
+- Log in to Wind River® Helix™ Lab Cloud
+- Go to "User Profile"
+- Select "+" under "Web APIs <> User Access Token" and copy your key
 
 '''
 Web APIs access token
@@ -101,18 +101,18 @@ CFE_a33c6ff3_a345_896b_6473_e957b23d8675
 Please copy this access token, it will no longer be accessible after closing this dialog box.
 '''
 
-4. Click on "?" from "Helix Lab Network Proxy" and review Documentation
+- Click on "?" from "Helix Lab Network Proxy" and review Documentation
    - [Client Connection Software Installation Instructions
 ](https://lab.cloud.windriver.com/documents/networkproxy/network_installation)
    - [Lab Cloud Networking Getting Started](https://lab.cloud.windriver.com/documents/networkproxy/network_getting_started)
    - [Lab Cloud Networking Example](https://lab.cloud.windriver.com/documents/networkproxy/network_examples)
-5. Install NodeJS in your Host
+- Install NodeJS in your Host
  
 
     # apt-get install --yes nodejs
 
 
-6. Download and Install "Client Connection Software"
+- Download and Install "Client Connection Software"
 
 
     xe1gyq@jessie:~/Downloads/helix$ #unzip helix-lab-network-proxy.zip 
