@@ -35,7 +35,7 @@ Wind River® Helix™ Lab Cloud
 Select "New Sessions"
 
 1. Select the Platform "Demo Wind River Rocket Hello World Program running on Intel" and click on "Next"
-2. Enter a Session Name
+2. Enter a Session Name "MyPlatformGalileo"
 
     ACPI 2.0 table at: 0F01E014                       
     Loading from disk...   
