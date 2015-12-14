@@ -30,7 +30,6 @@ Wind River® Helix™ Lab Cloud
 
 
 
-
     ACPI 2.0 table at: 0F01E014                       
     Loading from disk...   
     Opening [\EFI\BOOT\bootapp.sys]... FSOpen: Open '\EFI\BOOT\bootapp.sys' Success
