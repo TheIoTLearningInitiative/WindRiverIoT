@@ -94,7 +94,8 @@ Select "New Sessions"
 2. Go to "User Profile"
 3. Select "+" under "Web APIs <> User Access Token" and copy your key
 
-'''Web APIs access token
+'''
+Web APIs access token
 New access token is : 
 CFE_a33c6ff3_a345_896b_6473_e957b23d8675
 Please copy this access token, it will no longer be accessible after closing this dialog box.
