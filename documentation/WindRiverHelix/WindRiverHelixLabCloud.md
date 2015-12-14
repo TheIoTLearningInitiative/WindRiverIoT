@@ -15,4 +15,8 @@ Wind River® Helix™ Lab Cloud
 
 ### Platforms
 
-
+- ARM Cortex-A9
+- Demo - Chip Variants
+- Demo - Wind River Rocket Hello World
+- Freescale P2020DS Virtual 
+- Freescale P3041DS Virtual 
