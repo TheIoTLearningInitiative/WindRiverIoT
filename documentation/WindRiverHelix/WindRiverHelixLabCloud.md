@@ -150,4 +150,3 @@ Select "New Sessions"
     root@cube-31-10-15-domE:~# ifconfig
     br0       Link encap:Ethernet  HWaddr 86:0c:7c:2a:61:50  
               inet addr:10.10.0.4  Bcast:10.10.0.255  Mask:255.255.255.0
-
