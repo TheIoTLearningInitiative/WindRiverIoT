@@ -23,4 +23,5 @@ Wind River® Helix™ Lab Cloud
 - Freescale P4080DS Virtual 
 - Intel Core i7 virtual
 - Intel Core i7 x58 virtual
--  
+- Intel Galileo running Wind River Rocket
+- 
