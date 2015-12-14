@@ -11,6 +11,25 @@ Wind River® Helix™ Lab Cloud
 - Debug with full control and flexibility. Test software at any time.
 - Collaborate easily with anyone and provide to your team full visibility and access
 
+### Sessions
+
+> This is the central place to manage your Simics sessions. Click on the topbar buttons to create your first session.
+
+### Platforms
+
+- ARM Cortex-A9
+- Demo - Chip Variants
+- Demo - Wind River Rocket Hello World
+- Freescale P2020DS Virtual
+- Freescale P3041DS Virtual
+- Freescale P4080DS Virtual 
+- Intel Core i7 virtual
+- Intel Core i7 x58 virtual
+- Intel Galileo running Wind River Rocket
+- Intel MinnowMax Virtual
+- PowerPC e600 Virtual
+- PowerPC e6500 Virtual
+
 ### Helix Lab Network Proxy
 
 1. Log in to Wind River® Helix™ Lab Cloud
@@ -48,25 +67,6 @@ https://lab.cloud.windriver.com/download/helix-network-proxy?os=linux&arch=x86
     MyPlatformi7: Secured communication established with target.
     MyPlatformi7: Network proxy server running: 51868 -> 22
     MyPlatformi7: Network proxy server running: 54354 -> 1534
-
-### Sessions
-
-> This is the central place to manage your Simics sessions. Click on the topbar buttons to create your first session.
-
-### Platforms
-
-- ARM Cortex-A9
-- Demo - Chip Variants
-- Demo - Wind River Rocket Hello World
-- Freescale P2020DS Virtual
-- Freescale P3041DS Virtual
-- Freescale P4080DS Virtual 
-- Intel Core i7 virtual
-- Intel Core i7 x58 virtual
-- Intel Galileo running Wind River Rocket
-- Intel MinnowMax Virtual
-- PowerPC e600 Virtual
-- PowerPC e6500 Virtual
 
 ### New Session 
 
