@@ -54,7 +54,7 @@ Select "New Sessions"
     Hello World
     ...
 
-### Demo Minnowboard MAX Virtual Pulsar Linux Hello World
+### Demo Wind River Pulsar Linux Galileo
 
 Select "New Sessions"
 
