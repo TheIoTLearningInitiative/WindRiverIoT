@@ -137,3 +137,13 @@ Select "New Sessions"
     MyCorei7: Network proxy server running: 42729 -> 1534
 
 ### MyCorei7, Remote Connection
+
+
+    xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ssh root@127.0.0.1 -p 48068
+    The authenticity of host '[127.0.0.1]:48068 ([127.0.0.1]:48068)' can't be established.
+    ECDSA key fingerprint is eb:8a:0c:b7:69:03:72:26:0b:da:88:d7:5c:09:94:7a.
+    Are you sure you want to continue connecting (yes/no)? yes
+    Warning: Permanently added '[127.0.0.1]:48068' (ECDSA) to the list of known hosts.
+    root@127.0.0.1's password: incendia
+    Last login: Wed Dec  2 07:00:35 2015
+    root@cube-31-10-15-domE:~# 
