@@ -101,6 +101,8 @@ Select "New Sessions"
 
 4. Click on "?" from "Helix Lab Network Proxy" Documentation
 
+On Host
+
     # apt-get install --yes nodejs
     xe1gyq@jessie:~/Downloads/helix$ #unzip helix-lab-network-proxy.zip 
     xe1gyq@jessie:~/Downloads/helix$ cd helix-lab-network-proxy/
