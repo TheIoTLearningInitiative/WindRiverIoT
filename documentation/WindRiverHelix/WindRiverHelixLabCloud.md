@@ -99,7 +99,7 @@ Select "New Sessions"
     CFE_a33c6ff3_a345_896b_6473_e957b23d8675
     Please copy this access token, it will no longer be accessible after closing this dialog box.
 
-4. Click on 
+4. Click on "?" from "Helix Lab Network Proxy" Documentation
 
 
     # apt-get install --yes nodejs
