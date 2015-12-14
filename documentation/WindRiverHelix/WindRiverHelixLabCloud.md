@@ -13,7 +13,8 @@ Wind River® Helix™ Lab Cloud
 
 ### Host Setup
 
-    # 
+    # apt-get install --yes nodejs
+    
 https://lab.cloud.windriver.com/download/helix-network-proxy?os=linux&arch=x86
 
 ### Sessions
