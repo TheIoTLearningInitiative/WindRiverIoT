@@ -17,16 +17,38 @@ Wind River® Helix™ Lab Cloud
 2. Go to "User Profile"
 3. Select "+" from "Web APIs User access token"
 
-    # apt-get install --yes nodejs
-
-
-
     Web APIs access token
     New access token is : 
     CFE_a33c6ff3_a345_896b_6473_e957b23d8675
     Please copy this access token, it will no longer be accessible after closing this dialog box.
     
 https://lab.cloud.windriver.com/download/helix-network-proxy?os=linux&arch=x86
+
+    # apt-get install --yes nodejs
+    xe1gyq@jessie:~/Downloads/helix$ #unzip helix-lab-network-proxy.zip 
+    xe1gyq@jessie:~/Downloads/helix$ cd helix-lab-network-proxy/
+    xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ls
+    connection.json              helix-lab-network-proxy.js  node_modules    sails.js       terminal.js
+    devices.js                   helix-lab-network-proxy.sh  package.json    sessions.js    utils.js
+    helix-lab-network-proxy.cmd  LICENSE                     portforward.js  tcf-client-js  version.js
+    xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ./helix-lab-network-proxy.sh 
+    Helix Network Proxy v1.2.0
+    
+    You are using a Wind River account to connect to the Helix server.
+    You have to enter your access token to authenticate yourself against the server.
+    The access token is created from the User Profile page.
+    It will be saved localy in the file /home/xe1gyq/.helix-network-proxy.cred
+    
+    Enter your access token for the Helix server, https://lab.cloud.windriver.com
+    Access Token: ****************************************
+    
+    Authenticating to https://lab.cloud.windriver.com
+    Authentication successful.
+    Credentials saved to the file /home/xe1gyq/.helix-network-proxy.cred
+    MyPlatformi7: Secured communication established with target.
+    MyPlatformi7: Network proxy server running: 51868 -> 22
+    MyPlatformi7: Network proxy server running: 54354 -> 1534
+
 
 ### Sessions
 
