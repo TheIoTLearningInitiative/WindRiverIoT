@@ -41,12 +41,6 @@ Links
 - [Wind River® Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)
 - [Wind River® Helix App Cloud Overview](http://www.windriver.com/products/product-overviews/wr-app-cloud_overview.pdf)
 
-#### Getting Started
-
->  Welcome to Wind River® Helix App Cloud. Now you can create, modify, and debug applications running on real hardware—in the cloud. Wind River® Helix™ App Cloud is the central place for managing your devices and projects.
-
-[Wind River® Helix App Cloud](https://app.cloud.windriver.com/#/home)
-
 ### Wind River Helix Lab Cloud
 
 > Wind River® Helix™ Lab Cloud is an instantly accessible software lab that improves team collaboration and makes Internet of Things (IoT) development easier for everyone. It simulates hardware in a cloud platform. Using Lab Cloud you can rapidly create and share device and system software, both within your organization and with other teams.
