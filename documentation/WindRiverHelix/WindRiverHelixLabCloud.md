@@ -62,6 +62,25 @@ Select "New Sessions"
 2. Enter a Session Name "MyCorei7" and click on "Create Session"
 3. Click on "Resume the Simulation" button
 
+#### Console DomainE
+
+    Pulsar Linux 7.0.0.10 cube-31-10-15-domE ttyS0
+    cube-31-10-15-domE login: root
+    Password: 
+    Last login: Mon Nov  2 07:00:16 EST 2015 on ttyS0
+    root@cube-31-10-15-domE:~# date -s "02 NOV 2015 12:00:00"
+    Mon Nov  2 12:00:00 EST 2015
+    root@cube-31-10-15-domE:~# tcf-agent -d
+    linux trace EP:3957 Warning: perf SW events [9 .. 9] not supported
+    Enabling per-cpu perf event buffering
+    root@cube-31-10-15-domE:~# 
+    root@cube-31-10-15-domE:~# [   22.816063] br0: port 1(eth0)
+    entered forwarding state
+    [   22.817492] br0: port 2(veth8UNETN) entered forwarding state
+    [   23.456140] br0: port 1(eth0) entered forwarding state
+    [   24.544063] br0: port 3(veth2J79XH) entered forwarding state
+    [   24.800064] br0: port 1(eth0) entered forwarding state
+    
 
 
 #### Helix Lab Network Proxy
