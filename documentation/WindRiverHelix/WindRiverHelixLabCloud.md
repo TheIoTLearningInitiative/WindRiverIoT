@@ -34,7 +34,8 @@ Wind River® Helix™ Lab Cloud
 
 Select "New Sessions"
 
-1. Select the Platform
+1. Select the Platform "Demo Wind River Rocket Hello World Program running on Intel"
+2. 
 
     ACPI 2.0 table at: 0F01E014                       
     Loading from disk...   
