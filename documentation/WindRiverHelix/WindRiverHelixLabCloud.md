@@ -20,6 +20,7 @@ Wind River® Helix™ Lab Cloud
     # apt-get install --yes nodejs
 
 
+    Web APIs access token
     New access token is : 
     CFE_a33c6ff3_a345_896b_6473_e957b23d8675
     Please copy this access token, it will no longer be accessible after closing this dialog box.
