@@ -30,7 +30,7 @@ Wind River® Helix™ Lab Cloud
 - PowerPC e600 Virtual
 - PowerPC e6500 Virtual
 
-### Demo Hello World
+### Demo Galileo Hello World
 
 Select "New Sessions"
 
@@ -53,6 +53,8 @@ Select "New Sessions"
     Hello World
     Hello World
     ...
+
+### Demo Hello World
 
 ### Helix Lab Network Proxy
 
