@@ -249,44 +249,42 @@ Go to console "bash - helix app cloud" and type the following commands
 Select "Run Project" and go to console "outdir/zephyr.elf"
 
     make
-    * Zephyr Kernel/x86 Configuration
-    * General Kernel Options
-    * Security Options
-    * Nanokernel Options
-    * Microkernel Options
-    * Timer API Options
-    * X86 Platform Configuration options
-    * Platform Capabilities
-    * Processor Capabilities
-    * Floating Point Options
-    * x86 Core Options
-    * Memory Layout Options
-    * Device Drivers
-    * Console drivers
-    * Serial Drivers
-    * Interrupt Controllers
-    * Timer Drivers
-    * Random Generation Configuration
-    * PCI Settings
-    * GPIO Drivers
-    * SPI hardware bus support
-    * I2C Drivers
-    * PWM (Pulse Width Modulation) Drivers
-    * Enable platform pinmux driver
-    * ADC drivers
-    * Cryptography
-    * Compile and Link Features
-    * Debugging Options
-    * Safe memory access
-    * System Monitoring Options
-    # configuration written to .config
-    Using /users/xe1gyq/MyHelloWorld/zephyr as source for kernel
-      SYSMAP  System.map
-    make[2]: Leaving directory '/users/xe1gyq/MyHelloWorld/outdir'
-    make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
-    Loading /users/xe1gyq/MyHelloWorld//outdir/zephyr.elf on target...  done
+    make
+    make[1]: Entering directory '/users/xe1gyq/MyGrove-LCD/zephyr'
+    make[2]: Entering directory '/users/xe1gyq/MyGrove-LCD/outdir'
+      Using /users/xe1gyq/MyGrove-LCD/zephyr as source for kernel
+      GEN     ./Makefile
+      CHK     include/generated/version.h
+      CHK     misc/generated/configs.c
+      CHK     include/generated/offsets.h
+      CHK     misc/generated/sysgen/prj.mdef
+    make[2]: Leaving directory '/users/xe1gyq/MyGrove-LCD/outdir'
+    make[1]: Leaving directory '/users/xe1gyq/MyGrove-LCD/zephyr'
+    Loading /users/xe1gyq/MyGrove-LCD//outdir/zephyr.elf on target...  done
     Starting application...  done
     Application is now running
+    Pin 0 configured
+    Pin 1 configured
+    Pin 2 configured
+    Pin 3 configured
+    Pin 4 configured
+    Pin 5 configured
+    Pin 6 configured
+    Pin 7 configured
+    Pin 8 configured
+    Pin 9 configured
+    Pin 10 configured
+    Pin 11 configured
+    Pin 12 configured
+    Pin 13 configured
+    Pin 14 configured
+    Pin 15 configured
+    Pin 16 configured
+    Pin 17 configured
+    Pin 18 configured
+    Pin 19 configured
+    Initialize LCD ... done
+    Button on D3 = 0
 
 ### Applications Projects, Github
 
