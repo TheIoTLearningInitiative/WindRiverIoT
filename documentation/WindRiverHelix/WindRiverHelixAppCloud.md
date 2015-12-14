@@ -80,7 +80,8 @@ Go to console "bash - helix app cloud" and type the following commands
     /users/xe1gyq
     xe1gyq@helix-app-cloud:~$ ls
     MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
-    xe1gyq@helix-app-cloud:~$ 
+    xe1gyq@helix-app-cloud:~$ cd MyHelloWorld
+    xe1gyq@helix-app-cloud:~$ make menuconfig
 
 #### __MyHelloWorld - Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
