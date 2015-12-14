@@ -58,7 +58,7 @@ Select "New Sessions"
 
 Select "New Sessions"
 
-1. Select the Platform "Demo Wind River Rocket Hello World Program running on Intel" and click on "Next"
+1. Select the Platform "Intel Core i7 Virtual System running Wind River Pulsar Linux 7" and click on "Next"
 2. Enter a Session Name "MyPlatformGalileo"
 3. Click on "Resume the Simulation" button
 
