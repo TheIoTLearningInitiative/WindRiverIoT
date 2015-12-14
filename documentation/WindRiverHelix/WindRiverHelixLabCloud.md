@@ -146,4 +146,8 @@ Select "New Sessions"
     Warning: Permanently added '[127.0.0.1]:48068' (ECDSA) to the list of known hosts.
     root@127.0.0.1's password: incendia
     Last login: Wed Dec  2 07:00:35 2015
-    root@cube-31-10-15-domE:~# 
+    root@cube-31-10-15-domE:~# ifconfig
+    root@cube-31-10-15-domE:~# ifconfig
+    br0       Link encap:Ethernet  HWaddr 86:0c:7c:2a:61:50  
+              inet addr:10.10.0.4  Bcast:10.10.0.255  Mask:255.255.255.0
+
