@@ -54,7 +54,7 @@ Select "New Sessions"
     Hello World
     ...
 
-### Demo Wind River Pulsar Linux Galileo
+### Demo Wind River Linux Galileo
 
 Select "New Sessions"
 
