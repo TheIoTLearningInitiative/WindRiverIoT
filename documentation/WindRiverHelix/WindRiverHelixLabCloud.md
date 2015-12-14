@@ -62,21 +62,6 @@ Select "New Sessions"
 2. Enter a Session Name "MyCorei7" and click on "Create Session"
 3. Click on "Resume the Simulation" button
 
-> Demo - Wind River Rocket 'Hello World' program running on Intel 1.0.0.1. Demo of a simple Wind River Rocket program running on an Intel Quark Galileo Virtual System.
-
-    ACPI 2.0 table at: 0F01E014                       
-    Loading from disk...   
-    Opening [\EFI\BOOT\bootapp.sys]... FSOpen: Open '\EFI\BOOT\bootapp.sys' Success
-    Read 481046 bytes.
-    Loading 32-bit ELF image.
-    Total memory: 265023488 bytes
-    CSM video not available.                       
-    Booting...        
-    Jumping to boot image at 0x100000...
-    Hello World
-    Hello World
-    Hello World
-    ...
 
 #### Helix Lab Network Proxy
 
