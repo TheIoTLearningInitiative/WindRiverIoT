@@ -24,4 +24,5 @@ Wind River® Helix™ Lab Cloud
 - Intel Core i7 virtual
 - Intel Core i7 x58 virtual
 - Intel Galileo running Wind River Rocket
+- Intel MinnowMax Virtual
 - 
