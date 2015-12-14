@@ -36,6 +36,9 @@ Select "New Sessions"
 
 1. Select the Platform "Demo Wind River Rocket Hello World Program running on Intel" and click on "Next"
 2. Enter a Session Name "MyPlatformGalileo"
+3. Click on "Resume the Simulation" button
+
+> Demo - Wind River Rocket 'Hello World' program running on Intel 1.0.0.1. Demo of a simple Wind River Rocket program running on an Intel Quark Galileo Virtual System.
 
     ACPI 2.0 table at: 0F01E014                       
     Loading from disk...   
