@@ -66,7 +66,7 @@ Now select
 
 Before moving on, start Device Simulation
 
-### Intel x86 Simulator "VirtualDevice", Applications, Templates
+### Intel x86 Simulator "VirtualDevice", Applications Projects, Templates
 
 > Application Projects. This is the central place to manage your projects. Click on the button below to create your first project.
 
