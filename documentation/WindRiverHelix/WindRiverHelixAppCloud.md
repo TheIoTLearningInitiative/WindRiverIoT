@@ -133,7 +133,7 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
     Starting application...  done
     Application is now running
 
-### Applications Projects, Github
+### Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
 You can import existing projects from Github
 
