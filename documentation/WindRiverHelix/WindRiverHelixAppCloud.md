@@ -139,7 +139,7 @@ You can import existing projects from Github
 
     xe1gyq@helix-app-cloud:~$ git clone https://github.com/...
 
-### Galileo 2 Create a New Device
+### Galileo 2 "Galileo2Device"
 
 Select "New Device" from upper right corner
 
