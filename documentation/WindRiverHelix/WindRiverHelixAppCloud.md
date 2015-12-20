@@ -64,6 +64,8 @@ Now select
  - __Start Device Simulation__, to start your Virtual Device
  - __Terminate Device Simulation__, to stop your Virtual Device
 
+Please let it started...
+
 ### Applications Projects, Templates
 
 > Application Projects. This is the central place to manage your projects. Click on the button below to create your first project.
