@@ -5,9 +5,8 @@ Wind River®
 
 [Wind River® Homepage](http://www.windriver.com/)
 
-## 
+## Wind River Marketplace
 
-> Wind River Marketplace
 > Enhance and Extend Your Embedded Software. Find, download, and test-drive software that helps development teams speed production and create innovative products.
 
 > “…creates a robust ecosystem offering for our customers, and provides our partners with a unique opportunity to showcase their products and distribute evaluation versions to our vast customer base”
