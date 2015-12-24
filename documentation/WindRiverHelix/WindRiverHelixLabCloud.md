@@ -40,6 +40,7 @@ Select "New Sessions"
 
 > Demo - Wind River Rocket 'Hello World' program running on Intel 1.0.0.1. Demo of a simple Wind River Rocket program running on an Intel Quark Galileo Virtual System.
 
+```sh
     ACPI 2.0 table at: 0F01E014                       
     Loading from disk...   
     Opening [\EFI\BOOT\bootapp.sys]... FSOpen: Open '\EFI\BOOT\bootapp.sys' Success
@@ -53,6 +54,7 @@ Select "New Sessions"
     Hello World
     Hello World
     ...
+```
 
 ## MyCorei7, Demo Wind River Pulsar Linux 7 Core i7
 
@@ -64,6 +66,7 @@ Select "New Sessions"
 
 ### MyCorei7, Console DomainE
 
+```sh
     Pulsar Linux 7.0.0.10 cube-31-10-15-domE ttyS0
     cube-31-10-15-domE login: root
     Password: 
@@ -81,12 +84,14 @@ Select "New Sessions"
     [   24.544063] br0: port 3(veth2J79XH) entered forwarding state
     [   24.800064] br0: port 1(eth0) entered forwarding state
     root@cube-31-10-15-domE:~# 
+```
 
 ### MyCorei7, Console Domain0
 
+```sh
     cube-31-10-15-dom0 login: rootPassword: 
     root@cube-31-10-15-dom0:~# 
-
+```
 
 ### MyCorei7, Helix Lab Network Proxy
 
@@ -94,13 +99,14 @@ Select "New Sessions"
 - Go to "User Profile"
 - Select "+" under "Web APIs <> User Access Token" and copy your key
 
-
+```sh
     Web APIs access token
     New access token is : 
     CFE_a33c6ff3_a345_896b_6473_e957b23d8675
     Please copy this access token, it will no longer be accessible after closing this dialog box.
+```
 
-- Click on "?" from "Helix Lab Network Proxy" and review Documentation
+- Click on "?" from "Helix Lab Network Proxy" and review Documentation:
    - [Client Connection Software Installation Instructions
 ](https://lab.cloud.windriver.com/documents/networkproxy/network_installation)
    - [Lab Cloud Networking Getting Started](https://lab.cloud.windriver.com/documents/networkproxy/network_getting_started)
@@ -108,13 +114,13 @@ Select "New Sessions"
 
 - Install NodeJS in your Host
  
-
+```sh
     # apt-get install --yes nodejs
-
+```
 
 - Download and Install "Client Connection Software"
 
-
+```sh
     xe1gyq@jessie:~/Downloads/helix$ unzip helix-lab-network-proxy.zip
     xe1gyq@jessie:~/Downloads/helix$ cd helix-lab-network-proxy/
     xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ls
@@ -135,10 +141,11 @@ Select "New Sessions"
     MyCorei7: Secured communication established with target.
     MyCorei7: Network proxy server running: 40733 -> 22
     MyCorei7: Network proxy server running: 42729 -> 1534
+```
 
 ### MyCorei7, Remote Connection
 
-
+```sh
     xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ssh root@127.0.0.1 -p 48068
     The authenticity of host '[127.0.0.1]:48068 ([127.0.0.1]:48068)' can't be established.
     ECDSA key fingerprint is eb:8a:0c:b7:69:03:72:26:0b:da:88:d7:5c:09:94:7a.
@@ -157,7 +164,8 @@ Select "New Sessions"
     Fetching information for 'all'...                                 
     Fetching information for 'core2_64'...
     Fetching information for 'intel_corei7_64'...
+```
 
 ## MyMinnowboardMax, Demo Wind River Linux 7 Minnowboard MAX
 
-Create, deploy, 
+Create and Deploy, 
