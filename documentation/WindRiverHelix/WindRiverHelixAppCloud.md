@@ -81,6 +81,7 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 
 Go to console "bash - helix app cloud" and type the following commands
 
+```sh
     xe1gyq@helix-app-cloud:~$ cd
     xe1gyq@helix-app-cloud:~$ pwd
     /users/xe1gyq
@@ -88,11 +89,13 @@ Go to console "bash - helix app cloud" and type the following commands
     MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
     xe1gyq@helix-app-cloud:~$ cd MyHelloWorld
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
+```
 
 #### __MyHelloWorld - Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
 Select "Run Project" and go to console "outdir/zephyr.elf"
 
+```sh
     make
     * Zephyr Kernel/x86 Configuration
     * General Kernel Options
@@ -132,12 +135,15 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
     Loading /users/xe1gyq/MyHelloWorld//outdir/zephyr.elf on target...  done
     Starting application...  done
     Application is now running
+```
 
 ### Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
 You can import existing projects from Github
 
+```sh
     xe1gyq@helix-app-cloud:~$ git clone https://github.com/...
+```
 
 ### Galileo 2 "Galileo2Device"
 
@@ -164,6 +170,7 @@ In summary we need to:
 
 Check Galileo2Device Summary
 
+```sh
     Galileo2Device
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
      Offline Gateway
@@ -175,6 +182,7 @@ Check Galileo2Device Summary
      [Getting started with Rocket on Galileo Gen 2]()
     Registration ID
     Unique ID
+```
 
 __Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device__
 
@@ -201,6 +209,7 @@ Follow onscreen steps:
 
 When running "Galileo2Device-virtual-gateway.sh" this is the log seen:
 
+```sh
     xe1gyq@jessie:~/Downloads/IntelGalileoGateway/Galileo2Device-virtual-gateway$ sh Galileo2Device-virtual-gateway.sh 
     
     Helix App Cloud Virtual Gateway for device Galileo2Device on server https://app.cloud.windriver.com
@@ -217,14 +226,16 @@ When running "Galileo2Device-virtual-gateway.sh" this is the log seen:
     Connection with Helix App Cloud server has been established
     Received connection request for serial port "/dev/ttyUSB0"
     Successfully opened serial port "/dev/ttyUSB0"
-
+```
 
 Check again Galileo2Device Summary
 
+```sh
     Galileo2Device
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
      Online Gateway
      Online Device
+```
 
 ### Galileo 2 "Galileo2Device", Applications Projects, Templates
 
@@ -247,14 +258,17 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
 
 Go to console "bash - helix app cloud" and type the following commands
 
+```sh
     xe1gyq@helix-app-cloud:~/MyGrove-LCD$ ls
     Makefile  README.txt  outdir  prj.mdef  prj_x86.conf  src  zephyr
     xe1gyq@helix-app-cloud:~/MyGrove-LCD$ make menuconfig
+```
 
 #### __MyGrove-LCD Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
 Select "Run Project" and go to console "outdir/zephyr.elf"
 
+```sh
     make
     make
     make[1]: Entering directory '/users/xe1gyq/MyGrove-LCD/zephyr'
@@ -292,6 +306,7 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
     Pin 19 configured
     Initialize LCD ... done
     Button on D3 = 0
+```
 
 ## Video Tutorials
 
