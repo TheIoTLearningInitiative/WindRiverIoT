@@ -168,4 +168,4 @@ Select "New Sessions"
 
 ## MyMinnowboardMax, Demo Wind River Linux 7 Minnowboard MAX
 
-Create and Deploy, 
+Create and Deploy and New Session for Pulsar Linux for Minnowboard MAX
