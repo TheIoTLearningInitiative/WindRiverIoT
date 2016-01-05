@@ -139,12 +139,14 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
 
 ### Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
-You can import existing projects from Github
+You can import existing projects from Github, let's import philosophers example
 
 ```sh
     xe1gyq@helix-app-cloud:~$ git clone https://github.com/...
     xe1gyq@helix-app-cloud:~$ git clone https://github.com/wind-river-rocket/any-philosophers
 ```
+
+- [Wind River Rocket Sample Applications Github](https://github.com/wind-river-rocket)
 
 ### Galileo 2 "Galileo2Device"
 
