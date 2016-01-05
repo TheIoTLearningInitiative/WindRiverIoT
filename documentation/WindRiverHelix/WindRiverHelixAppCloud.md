@@ -143,6 +143,7 @@ You can import existing projects from Github
 
 ```sh
     xe1gyq@helix-app-cloud:~$ git clone https://github.com/...
+    xe1gyq@helix-app-cloud:~$ git clone https://github.com/wind-river-rocket/any-philosophers
 ```
 
 ### Galileo 2 "Galileo2Device"
