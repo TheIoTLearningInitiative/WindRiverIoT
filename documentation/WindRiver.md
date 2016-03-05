@@ -56,6 +56,6 @@ the Internet of Things
 
 ## Cloud9
 
-> This is your Workspace. We maintain it, you control it
+> Your development environment, in the cloud. Cloud9 combines a powerful online code editor with a full Ubuntu workspace in the cloud. This is your Workspace. We maintain it, you control it
 
 - [Cloud9 Homepage](https://c9.io/)
