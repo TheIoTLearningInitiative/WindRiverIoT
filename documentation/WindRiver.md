@@ -15,8 +15,8 @@ Wind River®
 
 ## Wind River® Products
 
-- Wind River Helix: The Software Foundation for 
-the Internet of Things
+- Wind River Helix: The Software Foundation for the Internet of Things
+- 
 - Operating Systems
 - Network Infrastructure
 - Gateways
