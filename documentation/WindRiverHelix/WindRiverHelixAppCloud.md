@@ -18,11 +18,11 @@ Wind River® Helix™ App Cloud
 
 [Wind River® Helix App Cloud](https://app.cloud.windriver.com/#/home)
 
-How to get started
+How to get started?
 
-- Sign Up for Free
-- Create a New Project
-- Create Your Application
+1. Sign Up for Free
+2. Create a New Project
+3. Create Your Application
 
 ### Sign Up for Free
 
