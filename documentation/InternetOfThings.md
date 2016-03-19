@@ -9,7 +9,9 @@
 
 ### App Cloud
 
+> Simplify How You Build Applications for the Internet of Things. Wind River® Helix™ App Cloud speeds creation of Internet of Things (IoT) software for system manufacturers, integrators, and operators.
 
+[](http://www.windriver.com/announces/helix-cloud/app-cloud/)
 
 ### Lab Cloud
 
