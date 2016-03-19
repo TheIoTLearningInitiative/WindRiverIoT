@@ -26,5 +26,7 @@ Wind River Internet of Things
 
 ## Wind River® Helix
 
+> Wind River® Helix™ is our portfolio of software, technologies, tools, and services for addressing the system-level challenges and opportunities created by the Internet of Things.
+
 http://www.windriver.com/products/helix/
 
