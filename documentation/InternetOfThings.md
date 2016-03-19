@@ -1,6 +1,6 @@
 # Wind River Internet of Things
 
-> THE INTERNET OF THINGS WHERE WILL IT TAKE YOU? Explore our insights into the challenges and opportunities being created by the Internet of Things (IoT) as it brings together the physical and digital worlds.
+> Explore our insights into the challenges and opportunities being created by the Internet of Things (IoT) as it brings together the physical and digital worlds.
 
 - [Wind River® IoT](http://www.windriver.com/iot/)
 - [Wind River® IoT Infographic](http://www.windriver.com/iot/Wind-River-IoT-infographic.pdf)
