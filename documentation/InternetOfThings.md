@@ -5,6 +5,10 @@
 - [Wind River® IoT](http://www.windriver.com/iot/)
 - [Wind River® IoT Infographic](http://www.windriver.com/iot/Wind-River-IoT-infographic.pdf)
 
+## Components
+
+
+
 ## Industries
 
 > Wind River® is working across industries to develop embedded systems for building IoT technologies that are improving and transforming the world’s leading companies.
