@@ -8,7 +8,7 @@
 ## Components
 
 - Wind River® Helix App Cloud
-- Wind River Helix Lab Cloud
+- Wind River® Helix Lab Cloud
 - Wind River® Helix Device Cloud
 
 ## Industries
