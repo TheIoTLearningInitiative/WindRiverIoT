@@ -7,5 +7,5 @@
 * [Intelligent Device Platform XT](documentation/IntelligentDevicePlatformXT.md)
 * [Wind River Helix™](documentation/WindRiverHelix/WindRiverHelix.md)
    * [App Cloud](documentation/WindRiverHelix/WindRiverHelixAppCloud.md)
-   * [Wind River® Helix™ Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
+   * [Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
 
