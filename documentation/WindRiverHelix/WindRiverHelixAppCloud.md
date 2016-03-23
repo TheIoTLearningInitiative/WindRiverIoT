@@ -137,7 +137,7 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
     Application is now running
 ```
 
-### Intel x86 Simulator "VirtualDevice", Applications Projects, Github
+### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
 You can import existing projects from Github, let's import philosophers example
 
