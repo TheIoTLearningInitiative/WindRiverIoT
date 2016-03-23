@@ -6,6 +6,11 @@ Wind River Internet of Things
 - [Wind River® IoT](http://www.windriver.com/iot/)
 - [Wind River® IoT Infographic](http://www.windriver.com/iot/Wind-River-IoT-infographic.pdf)
 
+## Wind River® Helix
+
+> Wind River® Helix™ is our portfolio of software, technologies, tools, and services for addressing the system-level challenges and opportunities created by the Internet of Things.
+
+[Wind River® Helix Homepage](http://www.windriver.com/products/helix/)
 ## Components
 
 - Wind River® Helix App Cloud
@@ -24,9 +29,4 @@ Wind River Internet of Things
 
 > For businesses to reap the full potential from the Internet of Things, they must address a host of issues, from security and standards to business models and device management.
 
-## Wind River® Helix
-
-> Wind River® Helix™ is our portfolio of software, technologies, tools, and services for addressing the system-level challenges and opportunities created by the Internet of Things.
-
-[Wind River® Helix Homepage](http://www.windriver.com/products/helix/)
 
