@@ -240,7 +240,7 @@ Check again Galileo2Device Summary
      Online Device
 ```
 
-### Galileo 2 "Galileo2Device", Applications Projects, Templates
+### Wind River Rocket Galileo 2 "Galileo2Device", Applications Projects, Templates
 
 > Application Projects. This is the central place to manage your projects. Click on the button below to create your first project.
 
