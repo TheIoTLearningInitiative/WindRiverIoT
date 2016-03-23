@@ -17,7 +17,8 @@ Wind River®
 
 - Wind River Helix: The Software Foundation for the Internet of Things
 - Operating Systems
-- Automotive
+  - Internet of Things
+  - Automotive
 - Network Infrastructure
 - Gateways
 - Edge Management
