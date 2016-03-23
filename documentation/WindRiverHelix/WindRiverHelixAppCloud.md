@@ -148,7 +148,7 @@ You can import existing projects from Github, let's import philosophers example
 
 - [Wind River Rocket Sample Applications Github](https://github.com/wind-river-rocket)
 
-### Galileo 2 "Galileo2Device"
+### Wind River Rocket Galileo 2 "Galileo2Device"
 
 Select "New Device" from upper right corner
 
