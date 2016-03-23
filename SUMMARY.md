@@ -8,4 +8,5 @@
 * [Wind River Helix™](documentation/WindRiverHelix/WindRiverHelix.md)
    * [App Cloud](documentation/WindRiverHelix/WindRiverHelixAppCloud.md)
    * [Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
+* Tools
 
