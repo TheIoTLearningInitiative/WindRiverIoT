@@ -33,4 +33,3 @@ Wind River Internet of Things
 - Wind River® Helix Lab Cloud
 - Wind River® Helix Device Cloud
 
-
