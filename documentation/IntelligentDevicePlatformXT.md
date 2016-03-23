@@ -1,4 +1,4 @@
-# Gateways Intelligent Device Platform XT
+# Gateways - Intelligent Device Platform XT
 
 > Connect Your Edge Devices to the Cloud
 
