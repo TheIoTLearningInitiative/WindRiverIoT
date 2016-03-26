@@ -165,6 +165,8 @@ make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
 
+Upper Directories
+
 ```sh
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls
 Makefile  MyDevices  outdir  prj.mdef  prj_x86.conf  src  zephyr
