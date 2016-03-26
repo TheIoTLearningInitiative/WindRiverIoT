@@ -2,6 +2,7 @@
 
 * [Cover](README.md)
 * [Introduction](documentation/Introduction.md)
+   * Terminology
 * [Wind River Internet of Things](documentation/InternetOfThings.md)
 * [Operating Systems](documentation/OperatingSystems.md)
 * [Tools](Tools.md)
