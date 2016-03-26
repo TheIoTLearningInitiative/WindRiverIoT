@@ -146,7 +146,18 @@ make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
 ```
 
 ```sh
-    xe1gyq@helix-app-cloud:~/MyHelloWorld$ make
+xe1gyq@helix-app-cloud:~/MyHelloWorld$ make
+make[1]: Entering directory '/users/xe1gyq/MyHelloWorld/zephyr'
+make[2]: Entering directory '/users/xe1gyq/MyHelloWorld/outdir'
+  Using /users/xe1gyq/MyHelloWorld/zephyr as source for kernel
+  GEN     ./Makefile
+  CHK     include/generated/version.h
+  CHK     misc/generated/configs.c
+  CHK     include/generated/offsets.h
+  CHK     misc/generated/sysgen/prj.mdef
+make[2]: Leaving directory '/users/xe1gyq/MyHelloWorld/outdir'
+make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
+xe1gyq@helix-app-cloud:~/MyHelloWorld$     
 ```
 
 ```sh
