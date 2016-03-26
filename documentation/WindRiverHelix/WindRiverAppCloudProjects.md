@@ -317,7 +317,7 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
 
 ##### __MyGrove-LCD Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
-Select "Run Project" and go to console "outdir/zephyr.elf"
+Select "Run Project" and go to console "outdir/zephyr.elf - Running"
 
 ```sh
     make
