@@ -16,13 +16,15 @@ Projects
 1. Select "New Device" from upper right corner
 2. From "Add a new device to App Cloud" popup window select "Create a new device from the supported SDK list"
 
-### Add a new device to App Cloud
+### Device Setup
+
+#### Add a new device to App Cloud
 
 __Select a SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs), select "Wind River Rocket for Intel x86 Simulator" then click "Next"
 
 __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
-### Virtual Device Start
+#### Virtual Device Start
 
 In summary
 
@@ -43,7 +45,9 @@ Now select
 
 Before moving on, start Device Simulation
 
-## Intel x86 Simulator "VirtualDevice", Applications Projects, Templates
+### Application Development
+
+#### Intel x86 Simulator "VirtualDevice", Applications Projects, Templates
 
 > Application Projects. This is the central place to manage your projects. Click on the button below to create your first project.
 
