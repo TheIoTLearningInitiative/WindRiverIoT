@@ -302,7 +302,7 @@ Choose "Grove-LCD" template and name it "MyGrove-LCD"
 
 Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized
 
-### __MyGrove-LCD Cloud9 Workspace__ Console "bash - helix app cloud"
+##### __MyGrove-LCD Cloud9 Workspace__ Console "bash - helix app cloud"
 
 Go to console "bash - helix app cloud" and type the following commands
 
@@ -312,7 +312,7 @@ Go to console "bash - helix app cloud" and type the following commands
     xe1gyq@helix-app-cloud:~/MyGrove-LCD$ make menuconfig
 ```
 
-### __MyGrove-LCD Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
+##### __MyGrove-LCD Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
 Select "Run Project" and go to console "outdir/zephyr.elf"
 
