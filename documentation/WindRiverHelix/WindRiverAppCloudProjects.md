@@ -47,7 +47,7 @@ Before moving on, start Device Simulation
 
 ### Application Development
 
-#### Intel x86 Simulator "VirtualDevice", Applications Projects, Templates
+#### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Templates
 
 > Application Projects. 
 > > This is the central place to manage your projects. Click on the button below to create your first project.
@@ -160,7 +160,7 @@ arch        include             lib                   source       zephyr.elf  z
 debug       int_vector_alloc.o  linker.cmd            staticIdt.o  zephyr.lnk
 ```
 
-## Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Github
+#### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
 You can import existing projects from Github, let's import philosophers example
 
