@@ -120,10 +120,12 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls ..
     MyDevices  MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
-    xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
 ```
 
+Make Menuconfig
+
 ```sh
+xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
 make[1]: Entering directory '/users/xe1gyq/MyHelloWorld/zephyr'
 make[2]: Entering directory '/users/xe1gyq/MyHelloWorld/outdir'
   GEN     ./Makefile
@@ -143,7 +145,10 @@ scripts/kconfig/mconf Kconfig
 
 make[2]: Leaving directory '/users/xe1gyq/MyHelloWorld/outdir'
 make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
+xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
+
+Make
 
 ```sh
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ make
@@ -157,7 +162,7 @@ make[2]: Entering directory '/users/xe1gyq/MyHelloWorld/outdir'
   CHK     misc/generated/sysgen/prj.mdef
 make[2]: Leaving directory '/users/xe1gyq/MyHelloWorld/outdir'
 make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
-xe1gyq@helix-app-cloud:~/MyHelloWorld$     
+xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
 
 ```sh
