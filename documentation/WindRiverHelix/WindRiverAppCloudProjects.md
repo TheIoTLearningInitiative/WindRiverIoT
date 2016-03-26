@@ -61,8 +61,9 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 
 ##### __MyHelloWorld - Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
-1. Go to MyHelloWorld Could9 Workspace tab and select "Run Project"
-2. Go to console "outdir/zephyr.elf - Running"
+1. Go to MyHelloWorld Could9 Workspace web browser tab
+2. Select "Run Project"
+3. Go to console "outdir/zephyr.elf - Running"
 
 ```sh
     make
@@ -108,8 +109,9 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 
 ##### __MyHelloWorld - Cloud9 Workspace__ Console "bash - xe1gyq@helix-app-cloud:~/MyHelloWorld$"
 
-1. Go to MyHelloWorld Could9 Workspace tab and select "Run Project"
-2. Go to console bash - xe1gyq@helix-app-cloud:~/MyHelloWorld" and type the following commands
+1. Go to MyHelloWorld Could9 Workspace web browser tab
+2. Select "Run Project"
+3. Go to console bash - xe1gyq@helix-app-cloud:~/MyHelloWorld" and type the following commands
 
 ```sh
     xe1gyq@helix-app-cloud:~$ cd
