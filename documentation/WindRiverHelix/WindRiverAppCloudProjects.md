@@ -61,6 +61,8 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 
 ##### __MyHelloWorld - Cloud9 Workspace__ Console "bash - helix app cloud"
 
+Go to that newly opened tab __MyHelloWorld - Cloud9 Workspace__ and 
+
 Go to console "bash - helix app cloud" and type the following commands
 
 ```sh
