@@ -118,7 +118,7 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
     xe1gyq@helix-app-cloud:~$ pwd
     /users/xe1gyq
     xe1gyq@helix-app-cloud:~$ ls
-    MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
+    MyDevices  MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
     xe1gyq@helix-app-cloud:~$ cd MyHelloWorld
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
 ```
