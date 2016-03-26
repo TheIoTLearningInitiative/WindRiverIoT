@@ -361,3 +361,6 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
     xe1gyq@helix-app-cloud:~/MyGrove-LCD$ make menuconfig
 ```
 
+## Wind River Pulsar Intel x86 Simulator "VirtualDevice"
+
+Work with Wind River Pulsar + Minnowboard MAX
