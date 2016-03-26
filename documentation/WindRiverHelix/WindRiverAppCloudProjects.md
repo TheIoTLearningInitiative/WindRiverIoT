@@ -63,7 +63,7 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 ##### __MyHelloWorld - Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
 1. Go to MyHelloWorld Could9 Workspace web browser tab
-2. Select "Run Project"
+2. Select "Run Project" if it is not running
 3. Go to console "outdir/zephyr.elf - Running"
 
 ```sh
@@ -305,7 +305,7 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
 ##### __MyGrove-LCD Cloud9 Workspace__ Console "bash - helix app cloud"
 
 1. Go to MyGrove-LCD Could9 Workspace web browser tab
-2. Select "Run Project"
+2. Select "Run Project" if it is not running
 3. Clic on "+" under Console Area and Select "New Terminal"
 3. Under terminal "bash - xe1gyq@helix-app-cloud:~/MyGrove-LCD" and type the following commands
 
@@ -317,7 +317,9 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
 
 ##### __MyGrove-LCD Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
-Select "Run Project" and go to console "outdir/zephyr.elf - Running"
+1. Go to MyGrove-LCD Could9 Workspace web browser tab
+2. Select "Run Project" if it is not running
+3. Go to console "outdir/zephyr.elf - Running"
 
 ```sh
     make
