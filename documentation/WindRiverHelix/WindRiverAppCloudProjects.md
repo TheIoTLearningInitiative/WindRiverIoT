@@ -304,7 +304,10 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
 
 ##### __MyGrove-LCD Cloud9 Workspace__ Console "bash - helix app cloud"
 
-Go to console "bash - helix app cloud" and type the following commands
+1. Go to MyGrove-LCD Could9 Workspace web browser tab
+2. Select "Run Project"
+3. Clic on "+" under Console Area and Select "New Terminal"
+3. Under terminal "bash - xe1gyq@helix-app-cloud:~/MyGrove-LCD" and type the following commands
 
 ```sh
     xe1gyq@helix-app-cloud:~/MyGrove-LCD$ ls
