@@ -194,7 +194,8 @@ You can import existing projects from Github, let's import philosophers example
 
 ## Wind River Rocket Galileo 2 "Galileo2Device"
 
-Select "New Device" from upper right corner
+1. Select "New Device" from upper right corner
+2. From "Add a new device to App Cloud" popup window select "Create a new device from the supported SDK list"
 
 ### New Device
 
