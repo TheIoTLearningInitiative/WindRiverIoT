@@ -10,7 +10,7 @@ Wind River® Helix™ App Cloud
 - [Wind River® Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)
 - [Wind River® Helix App Cloud Overview](http://www.windriver.com/products/product-overviews/wr-app-cloud_overview.pdf)
 
-### Supported SDKs
+## Supported SDKs
 
 > Wind River Linux-7 for Intel Galileo
 > > The Intel® Galileo Gen 2 board is a Arduino certified development and prototyping boards based on Intel® Quark and specifically designed for makers, students, educators, and DIY electronic enthusiasts. 
