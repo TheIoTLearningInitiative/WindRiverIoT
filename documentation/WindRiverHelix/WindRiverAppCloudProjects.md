@@ -165,7 +165,7 @@ debug       int_vector_alloc.o  linker.cmd            staticIdt.o  zephyr.lnk
 You can import existing projects from Github, let's import philosophers example
 
 ```sh
-    xe1gyq@helix-app-cloud:~$ git clone https://github.com/...
+    xe1gyq@helix-app-cloud:~$ git clone https://github.com/wind-river-rocket/dining-philosophers-sample-app.git
     xe1gyq@helix-app-cloud:~$ git clone https://github.com/wind-river-rocket/any-philosophers
 ```
 
