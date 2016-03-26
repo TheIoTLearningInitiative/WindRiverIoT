@@ -122,7 +122,29 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls ..
     MyDevices  MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
-    
+    xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
+```
+
+```sh
+make[1]: Entering directory '/users/xe1gyq/MyHelloWorld/zephyr'
+make[2]: Entering directory '/users/xe1gyq/MyHelloWorld/outdir'
+  GEN     ./Makefile
+  HOSTCC  scripts/kconfig/mconf.o
+  HOSTCC  scripts/kconfig/lxdialog/checklist.o
+  HOSTCC  scripts/kconfig/lxdialog/util.o
+  HOSTCC  scripts/kconfig/lxdialog/inputbox.o
+  HOSTCC  scripts/kconfig/lxdialog/textbox.o
+  HOSTCC  scripts/kconfig/lxdialog/yesno.o
+  HOSTCC  scripts/kconfig/lxdialog/menubox.o
+  HOSTLD  scripts/kconfig/mconf
+scripts/kconfig/mconf Kconfig
+
+
+*** End of the configuration.
+*** Execute 'make' to start the build or try 'make help'.
+
+make[2]: Leaving directory '/users/xe1gyq/MyHelloWorld/outdir'
+make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
 ```
 
 
