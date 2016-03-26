@@ -199,19 +199,15 @@ You can import existing projects from Github, let's import philosophers example
 2. Select "New Device" from upper right corner
 3. From "Add a new device to App Cloud" popup window select "Create a new device from the supported SDK list"
 
-### New Device
+### Device Setup
+
+#### Add a new device to App Cloud
 
 __Select the SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs), select "Wind River Rocket for Intel Galileo Gen 2" then click "Next"
 
-- Wind River Linux-7 for Intel Galileo
-- Wind River Rocket for Intel Galileo Gen 2
-- Wind River Rocket for Intel x86 Simulator
-- Pulsar Linux for Minnowboard Max
-- Pulsar Linux for ZedBoard.org Xilinx Zynq
-
 __Enter a Device Name__ Choose "Galileo2Device" then select "Create Device"
 
-### Galileo 2 Start
+#### Galileo 2 Device Start
 
 In summary we need to:
 
