@@ -31,7 +31,8 @@ How to get started?
 
 ### Wind River Rocket Intel x86 Simulator "VirtualDevice"
 
-Select "New Device" from upper right corner
+1. Select "New Device" from upper right corner
+2. From "Add a new device to App Cloud" window select "Create a new device from the supported SDK list"
 
 #### New Device
 
