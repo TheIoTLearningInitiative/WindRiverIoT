@@ -302,19 +302,6 @@ Choose "Grove-LCD" template and name it "MyGrove-LCD"
 
 Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized
 
-##### __MyGrove-LCD Cloud9 Workspace__ Console "bash - helix app cloud"
-
-1. Go to MyGrove-LCD Could9 Workspace web browser tab
-2. Select "Run Project" if it is not running
-3. Clic on "+" under Console Area and Select "New Terminal"
-3. Under terminal "bash - xe1gyq@helix-app-cloud:~/MyGrove-LCD" and type the following commands
-
-```sh
-    xe1gyq@helix-app-cloud:~/MyGrove-LCD$ ls
-    Makefile  MyDevices  README.txt  prj.mdef  prj_x86.conf  src  zephyr
-    xe1gyq@helix-app-cloud:~/MyGrove-LCD$ make menuconfig
-```
-
 ##### __MyGrove-LCD Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
 1. Go to MyGrove-LCD Could9 Workspace web browser tab
@@ -359,5 +346,18 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
     Pin 19 configured
     Initialize LCD ... done
     Button on D3 = 0
+```
+
+##### __MyGrove-LCD Cloud9 Workspace__ Console "bash - helix app cloud"
+
+1. Go to MyGrove-LCD Could9 Workspace web browser tab
+2. Select "Run Project" if it is not running
+3. Clic on "+" under Console Area and Select "New Terminal"
+3. Under terminal "bash - xe1gyq@helix-app-cloud:~/MyGrove-LCD" and type the following commands
+
+```sh
+    xe1gyq@helix-app-cloud:~/MyGrove-LCD$ ls
+    Makefile  MyDevices  README.txt  prj.mdef  prj_x86.conf  src  zephyr
+    xe1gyq@helix-app-cloud:~/MyGrove-LCD$ make menuconfig
 ```
 
