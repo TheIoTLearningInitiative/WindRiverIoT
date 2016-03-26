@@ -363,4 +363,4 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
 
 ## Wind River Pulsar Intel x86 Simulator "VirtualDevice"
 
-Work with Wind River Pulsar + Minnowboard MAX
+If you have a Minnowboard MAX the work with Wind River Pulsar
