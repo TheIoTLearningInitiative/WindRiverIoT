@@ -108,8 +108,8 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 
 ##### __MyHelloWorld - Cloud9 Workspace__ Console "bash - xe1gyq@helix-app-cloud:~/MyHelloWorld$"
 
-1. Go to MyHelloWorld Could9 Workspace tab
-2. Select "Run Project" and go to console bash - xe1gyq@helix-app-cloud:~/MyHelloWorld" and type the following commands
+1. Go to MyHelloWorld Could9 Workspace tab and select "Run Project"
+2. Go to console bash - xe1gyq@helix-app-cloud:~/MyHelloWorld" and type the following commands
 
 ```sh
     xe1gyq@helix-app-cloud:~$ cd
