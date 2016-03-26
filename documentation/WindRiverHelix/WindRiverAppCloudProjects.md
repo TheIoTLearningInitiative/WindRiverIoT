@@ -147,6 +147,20 @@ make[2]: Leaving directory '/users/xe1gyq/MyHelloWorld/outdir'
 make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
 ```
 
+```sh
+xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls
+Makefile  MyDevices  outdir  prj.mdef  prj_x86.conf  src  zephyr
+xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls src/
+Makefile  built-in.o  main.c  main.o
+xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls zephyr/
+Kbuild   Kconfig.zephyr  Makefile.inc  arch           debug    include  lib   net     scripts
+Kconfig  Makefile        README.txt    buildDefaults  drivers  kernel   misc  schema  zephyr-env.sh
+xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls outdir/
+Makefile    drivers             irq_int_vector_map.o  misc         zephyr      zephyr.lst
+System.map  final-linker.cmd    kernel                scripts      zephyr.bin  zephyr.map
+arch        include             lib                   source       zephyr.elf  zephyr.strip
+debug       int_vector_alloc.o  linker.cmd            staticIdt.o  zephyr.lnk
+```
 
 ## Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
