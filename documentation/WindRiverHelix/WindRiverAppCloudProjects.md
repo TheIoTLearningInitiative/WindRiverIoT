@@ -111,16 +111,18 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 
 1. Go to MyHelloWorld Could9 Workspace web browser tab
 2. Select "Run Project"
-3. Go to console bash - xe1gyq@helix-app-cloud:~/MyHelloWorld" and type the following commands
+3. Clic on "+" under Console Area and Select "New Terminal"
+3. Under terminal "bash - xe1gyq@helix-app-cloud:~/MyHelloWorld" and type the following commands
 
 ```sh
-    xe1gyq@helix-app-cloud:~$ cd
-    xe1gyq@helix-app-cloud:~$ pwd
-    /users/xe1gyq
-    xe1gyq@helix-app-cloud:~$ ls
+    xe1gyq@helix-app-cloud:~/MyHelloWorld$ pwd
+    /users/xe1gyq/MyHelloWorld
+    xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls
+    Makefile  MyDevices  outdir  prj.mdef  prj_x86.conf  src  zephyr
+    xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls ..
     MyDevices  MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
-    xe1gyq@helix-app-cloud:~$ cd MyHelloWorld
-    xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
+    xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
+    
 ```
 
 
