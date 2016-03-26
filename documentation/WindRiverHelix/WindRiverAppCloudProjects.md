@@ -311,7 +311,7 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
 
 ```sh
     xe1gyq@helix-app-cloud:~/MyGrove-LCD$ ls
-    Makefile  README.txt  outdir  prj.mdef  prj_x86.conf  src  zephyr
+    Makefile  MyDevices  README.txt  prj.mdef  prj_x86.conf  src  zephyr
     xe1gyq@helix-app-cloud:~/MyGrove-LCD$ make menuconfig
 ```
 
