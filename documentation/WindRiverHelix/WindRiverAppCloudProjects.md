@@ -59,23 +59,7 @@ Create 2 different projects by selecting "Create New Project":
 
 Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized, go to that newly opened tab
 
-##### __MyHelloWorld - Cloud9 Workspace__ Console "bash - helix app cloud"
-
-Go to that newly opened tab "MyHelloWorld - Cloud9 Workspace" and clic on "Run Project" 
-
-Go to console "bash - helix app cloud" and type the following commands
-
-```sh
-    xe1gyq@helix-app-cloud:~$ cd
-    xe1gyq@helix-app-cloud:~$ pwd
-    /users/xe1gyq
-    xe1gyq@helix-app-cloud:~$ ls
-    MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
-    xe1gyq@helix-app-cloud:~$ cd MyHelloWorld
-    xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
-```
-
-### __MyHelloWorld - Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
+##### __MyHelloWorld - Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
 Select "Run Project" and go to console "outdir/zephyr.elf"
 
@@ -120,6 +104,22 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
     Starting application...  done
     Application is now running
 ```
+
+##### __MyHelloWorld - Cloud9 Workspace__ Console "bash - helix app cloud"
+
+1. Go to that newly opened tab "MyHelloWorld - Cloud9 Workspace" and clic on "Run Project" 
+2. Go to console "bash - helix app cloud" and type the following commands
+
+```sh
+    xe1gyq@helix-app-cloud:~$ cd
+    xe1gyq@helix-app-cloud:~$ pwd
+    /users/xe1gyq
+    xe1gyq@helix-app-cloud:~$ ls
+    MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
+    xe1gyq@helix-app-cloud:~$ cd MyHelloWorld
+    xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
+```
+
 
 ## Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
