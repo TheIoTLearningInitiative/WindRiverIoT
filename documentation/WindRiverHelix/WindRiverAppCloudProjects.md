@@ -61,8 +61,8 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 
 ##### __MyHelloWorld - Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
-1. Go to MyHelloWorld Could9 Workspace tab
-2. Select "Run Project" and go to console "outdir/zephyr.elf - Running"
+1. Go to MyHelloWorld Could9 Workspace tab and select "Run Project"
+2. Go to console "outdir/zephyr.elf - Running"
 
 ```sh
     make
