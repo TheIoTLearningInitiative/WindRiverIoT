@@ -117,8 +117,6 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 ```sh
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ pwd
     /users/xe1gyq/MyHelloWorld
-    xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls
-    Makefile  MyDevices  outdir  prj.mdef  prj_x86.conf  src  zephyr
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls ..
     MyDevices  MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
