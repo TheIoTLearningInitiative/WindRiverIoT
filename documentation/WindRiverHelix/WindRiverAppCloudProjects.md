@@ -166,7 +166,6 @@ You can import existing projects from Github, let's import philosophers example
 
 ```sh
     xe1gyq@helix-app-cloud:~$ git clone https://github.com/wind-river-rocket/dining-philosophers-sample-app.git
-    xe1gyq@helix-app-cloud:~$ git clone https://github.com/wind-river-rocket/dining-philosophers-sample-app.git
 ```
 
 - [Wind River Rocket Sample Applications Github](https://github.com/wind-river-rocket)
