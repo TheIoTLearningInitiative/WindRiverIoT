@@ -1,6 +1,16 @@
 Projects
 ==
 
+## Video Tutorials
+
+- Rocket SDK Getting Started
+- Rocket SDK Debugger Workflow
+- Deploying Pulsar Linux to the Hardware
+- Creating and Debugging a Pulsar C Application
+- Creating and Debugging a Pulsar Javascript Application
+- Building gzip on Pulsar - an Open Source Autoconf Project
+- Building lua on Pulsar - an Open Source Makefile Project
+
 ## Wind River Rocket Intel x86 Simulator "VirtualDevice"
 
 1. Select "New Device" from upper right corner
@@ -279,14 +289,4 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
     Initialize LCD ... done
     Button on D3 = 0
 ```
-
-## Video Tutorials
-
-- Rocket SDK Getting Started
-- Rocket SDK Debugger Workflow
-- Deploying Pulsar Linux to the Hardware
-- Creating and Debugging a Pulsar C Application
-- Creating and Debugging a Pulsar Javascript Application
-- Building gzip on Pulsar - an Open Source Autoconf Project
-- Building lua on Pulsar - an Open Source Makefile Project
 
