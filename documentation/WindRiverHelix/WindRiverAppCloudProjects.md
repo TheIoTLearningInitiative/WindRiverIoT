@@ -122,7 +122,7 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
 
-Make Menuconfig
+###### Make Menuconfig
 
 ```sh
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
@@ -148,7 +148,7 @@ make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
 
-Make
+###### Make
 
 ```sh
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ make
@@ -165,7 +165,7 @@ make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
 
-Upper Directories
+###### Upper Directories
 
 ```sh
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls
