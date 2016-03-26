@@ -105,7 +105,7 @@ Select "Run Project" and go to console "outdir/zephyr.elf"
     Application is now running
 ```
 
-##### __MyHelloWorld - Cloud9 Workspace__ Console "bash - helix app cloud"
+##### __MyHelloWorld - Cloud9 Workspace__ Console "bash - xe1gyq@helix-app-cloud:~/MyHelloWorld$"
 
 1. Go to that newly opened tab "MyHelloWorld - Cloud9 Workspace" and clic on "Run Project" 
 2. Go to console "bash - helix app cloud" and type the following commands
