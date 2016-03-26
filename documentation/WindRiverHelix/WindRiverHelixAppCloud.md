@@ -38,8 +38,10 @@ How to get started?
 
 __Select a SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs), select "Wind River Rocket for Intel x86 Simulator" then click "Next"
 
-- Wind River Linux-7 for Intel Galileo
-- Wind River Rocket for Intel Galileo Gen 2
+> Wind River Linux-7 for Intel Galileo
+> > The Intel® Galileo Gen 2 board is a Arduino certified development and prototyping boards based on Intel® Quark and specifically designed for makers, students, educators, and DIY electronic enthusiasts. wrlinux wrlinux-7 intel galileo galileogen2
+
+> Wind River Rocket for Intel Galileo Gen 2
 - Wind River Rocket for Intel x86 Simulator
 - Pulsar Linux for Minnowboard Max
 - Pulsar Linux for ZedBoard.org Xilinx Zynq
