@@ -36,9 +36,11 @@
 
 > wrlinux wrlinux-7 intel galileo galileogen2
 
-> Wind River Rocket for Intel Galileo Gen 2
-> > Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® Quark.
-> > rocket intel galileo galileogen2
+### Wind River Rocket for Intel Galileo Gen 2
+
+> Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® Quark.
+
+> rocket intel galileo galileogen2
  
 > Wind River Rocket for Intel x86 Simulator
 > > A Rocket OS distribution for QEMU x86 Quark.
