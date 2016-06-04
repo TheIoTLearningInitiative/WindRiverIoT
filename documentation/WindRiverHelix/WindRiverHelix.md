@@ -58,4 +58,9 @@
 - [Wind River® Helix™ Device Cloud Overview](http://www.windriver.com/products/product-overviews/wr-device-cloud_overview.pdf)
 - [Wind River® Helix™ Device Cloud PDF](http://www.windriver.com/products/product-overviews/PO-Wind-River-Helix-Device-Cloud.pdf)
 
+## Wind River® Helix Rocket
+
+> Rocket is a free, real-time operating system for 32-bit microcontroller units (MCUs), ideal for building resource-constrained smart, connected devices.
+
+
 
