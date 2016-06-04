@@ -16,6 +16,8 @@
 
 > To get started in Lab Cloud you will need to create a Lab Session based on one of our existing Lab Cloud Platforms.
 
+> To use the platform with Helix App Cloud you will need to create a Helix App Cloud account and select the Helix App Cloud option during the new session creation process in Helix Lab Cloud. To connect to App Cloud first run the Lab Session from Lab Cloud by pressing the play button and then click the bug button to launch Wind River Helix App Cloud to create an automatic connection. Once in App Cloud you can create a software project and download Wind River Rocket example programs or write your own. If you stop the Lab Session, you must restart/reload each time from Snapshot 0 in Lab Cloud to reconnect to App Cloud. For more information about Rocket RTOS see the Wind River Rocket product page - www.windriver.com/products/operating-environments/rocket/
+
 # MyPlatformGalileo, Demo Wind River Rocket Galileo
 
 Select "New Sessions"
@@ -45,7 +47,7 @@ Select "New Sessions"
 # MyPlatformGalileo, Demo Wind River Rocket Galileo
 
 Intel Galileo running Wind River Rocket with App Cloud Support 1.0.0.8
-> An Intel Galileo Virtual System with a Quark SoC X1000 Series processor running the Wind River Rocket RTOS. To use the platform with Helix App Cloud you will need to create a Helix App Cloud account and select the Helix App Cloud option during the new session creation process in Helix Lab Cloud. To connect to App Cloud first run the Lab Session from Lab Cloud by pressing the play button and then click the bug button to launch Wind River Helix App Cloud to create an automatic connection. Once in App Cloud you can create a software project and download Wind River Rocket example programs or write your own. If you stop the Lab Session, you must restart/reload each time from Snapshot 0 in Lab Cloud to reconnect to App Cloud. For more information about Rocket RTOS see the Wind River Rocket product page - www.windriver.com/products/operating-environments/rocket/
+> An Intel Galileo Virtual System with a Quark SoC X1000 Series processor running the Wind River Rocket RTOS.
 
 
 
