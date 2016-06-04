@@ -580,6 +580,21 @@ debug       int_vector_alloc.o  linker.cmd            staticIdt.o  zephyr.lnk
 
 #### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, MyDiningPhilosophers
 
+```sh
+xe1gyq@helix-app-cloud:~/MyHelloWorld$ cd ../MyDiningPhilosophers/
+xe1gyq@helix-app-cloud:~/MyDiningPhilosophers$ make
+make[1]: Entering directory '/users/xe1gyq/MyHelloWorld/zephyr'
+make[2]: Entering directory '/users/xe1gyq/MyDiningPhilosophers/outdir'
+  Using /users/xe1gyq/MyHelloWorld/zephyr as source for kernel
+  GEN     ./Makefile
+  CHK     include/generated/version.h
+  CHK     misc/generated/configs.c
+  CHK     include/generated/offsets.h
+  CHK     misc/generated/sysgen/prj.mdef
+make[2]: Leaving directory '/users/xe1gyq/MyDiningPhilosophers/outdir'
+make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
+xe1gyq@helix-app-cloud:~/MyDiningPhilosophers$ 
+```
 
 #### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
