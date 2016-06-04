@@ -13,6 +13,8 @@
 
 ## Video Tutorials
 
+> These video tutorials introduce key concepts and demonstrate step-by-step processes to help you make the most of App Cloud.
+
 - Rocket SDK Getting Started
 - Rocket SDK Debugger Workflow
 - Deploying Pulsar Linux to the Hardware
