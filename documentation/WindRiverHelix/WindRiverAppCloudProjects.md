@@ -7,6 +7,7 @@
 > - Wind River Rocket for Simulator
 > - Pulsar Linux for Minnowboard Max
 
+> Register an existing device. Register a device that was previously created in App Cloud. The device Registration ID is dispayed in the device details pane once created.
 
 ## Video Tutorials
 
