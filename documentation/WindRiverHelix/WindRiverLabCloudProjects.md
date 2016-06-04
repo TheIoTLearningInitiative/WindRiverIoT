@@ -52,9 +52,8 @@ Select "New Sessions"
 2. Enter a Session Name "MyPlatformGalileoAppCloud" and click on "Create Session"
 3. Click on "Start" button
 
-Intel Galileo running Wind River Rocket with App Cloud Support 1.0.0.8
-
-> An Intel Galileo Virtual System with a Quark SoC X1000 Series processor running the Wind River Rocket RTOS.
+> Intel Galileo running Wind River Rocket with App Cloud Support 1.0.0.8
+> > An Intel Galileo Virtual System with a Quark SoC X1000 Series processor running the Wind River Rocket RTOS.
 
 
 
