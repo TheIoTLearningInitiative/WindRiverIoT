@@ -16,6 +16,8 @@ Wind River®
 
 ## Wind River® Products
 
+> Our Technologies. Our comprehensive Helix portfolio is ideally suited to address the emerging needs of IoT, from the secure and managed intelligent devices at the edge, through data gateways, across the critical network infrastructure, and up into the cloud. [Wind River® Products](http://www.windriver.com/products/)
+
 - Wind River Helix: The Software Foundation for the Internet of Things
 - Operating Systems
   - Internet of Things
@@ -26,7 +28,7 @@ Wind River®
 - Simulation
 - Open Networks
 
-[Wind River® Products](http://www.windriver.com/products/)
+
 
 ## Wind River® Professional Services
 
