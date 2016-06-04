@@ -17,5 +17,5 @@
    * [Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
        * [Projects](documentation/WindRiverHelix/WindRiverLabCloudProjects.md)
 * Challenge
-* Sandbox
+* [Sandbox](Sandbox.md)
 
