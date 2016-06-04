@@ -42,6 +42,8 @@ Select "New Sessions"
     ...
 ```
 
+# MyPlatformGalileo, Demo Wind River Rocket Galileo
+
 # MyCorei7, Demo Wind River Pulsar Linux 7 Core i7
 
 Select "New Sessions"
