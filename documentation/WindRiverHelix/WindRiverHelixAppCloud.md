@@ -60,4 +60,6 @@
 > The Freescale Freedom-K64F is an ultra-low-cost development platform for the Kinetis K64 MCU and is form-factor compatible with the Arduino R3 pin layout.
 > > rocket arm k64 freedom freescale
 
-### 
+### VxWorks-7 for Intel Galileo Gen2
+> The Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® Quark designed for makers, students, educators, and DIY electronics enthusiasts.
+> > 
