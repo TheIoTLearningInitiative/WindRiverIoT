@@ -2,10 +2,11 @@
 
 > The Internet of Things! Where it will take you? Explore our insights into the challenges and opportunities being created by the Internet of Things (IoT) as it brings together the physical and digital worlds.
 
+> $19 Trillion. Estimated amount of economic value IoT will create for businesses and society. Cisco Systems
+
 - [Wind River® IoT](http://www.windriver.com/iot/)
 - [Wind River® IoT Infographic](http://www.windriver.com/iot/Wind-River-IoT-infographic.pdf)
 
-> $19 Trillion. Estimated amount of economic value IoT will create for businesses and society. Cisco Systems
 
 # Roadmap
 
