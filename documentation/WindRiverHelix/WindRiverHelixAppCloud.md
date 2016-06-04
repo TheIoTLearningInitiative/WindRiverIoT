@@ -9,6 +9,12 @@
 - [Wind River® Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)
 - [Wind River® Helix App Cloud Overview](http://www.windriver.com/products/product-overviews/wr-app-cloud_overview.pdf)
 
+## How to get started?
+
+1. Sign Up for Free
+2. Create a New Project
+3. Create Your Application
+
 ## Supported SDKs
 
 ### Wind River Linux-7 for Intel Galileo
