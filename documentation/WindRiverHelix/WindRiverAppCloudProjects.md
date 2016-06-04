@@ -511,7 +511,8 @@ Short View
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ pwd
     /users/xe1gyq/MyHelloWorld
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls ..
-    MyDevices  MyDiningPhilosophers  MyHelloWorld  home  lost+found  mthread.d
+    CProject   MyDiningPhilosophers  dining-philosophers-sample-app  lost+found
+    MyDevices  MyHelloWorld          home                            mthread.d
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
 
