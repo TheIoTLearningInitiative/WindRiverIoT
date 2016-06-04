@@ -33,26 +33,23 @@
 ### Wind River Linux-7 for Intel Galileo
 
 > The Intel® Galileo Gen 2 board is a Arduino certified development and prototyping boards based on Intel® Quark and specifically designed for makers, students, educators, and DIY electronic enthusiasts. 
-
-> wrlinux wrlinux-7 intel galileo galileogen2
+> > wrlinux wrlinux-7 intel galileo galileogen2
 
 ### Wind River Rocket for Intel Galileo Gen 2
 
 > Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® Quark.
-
-> rocket intel galileo galileogen2
+> > rocket intel galileo galileogen2
  
 ### Wind River Rocket for Intel x86 Simulator
 > A Rocket OS distribution for QEMU x86 Quark.
+> > rocket intel qemu
 
-> rocket intel qemu
-
-> Pulsar Linux for Minnowboard Max
-> > The Minnow Board Max BSP reference platform is designed to run on the Minnow Board Max and other x86_64 simulators or hypervisors.
+### Pulsar Linux for Minnowboard Max
+> The Minnow Board Max BSP reference platform is designed to run on the Minnow Board Max and other x86_64 simulators or hypervisors.
 > > wrlinux wrlinux-7 pulsar x86-64 minnow
 
-> Pulsar Linux for ZedBoard.org Xilinx Zynq
-> > The Xilinx Zynq BSP reference platform is designed to run on Xilinx Zynq hardware.
+### Pulsar Linux for ZedBoard.org Xilinx Zynq
+> The Xilinx Zynq BSP reference platform is designed to run on Xilinx Zynq hardware.
 > > wrlinux wrlinux-7 arm pulsar xilinx zedboard
 
 > Pulsar Linux for NXP LS1021a
