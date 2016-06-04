@@ -62,6 +62,8 @@
 
 > Rocket is a free, real-time operating system for 32-bit microcontroller units (MCUs), ideal for building resource-constrained smart, connected devices.
 
+- [Wind River® Helix™ Rocket Homepage](http://www.windriver.com/products/operating-systems/rocket/)
+
 ## Wind River® Helix Pulsar
 
 > Wind River Pulsar Linux is a small, high-performance, secure, and manageable Linux distribution that is available at no additional cost on hardware boards from our trusted partners.
