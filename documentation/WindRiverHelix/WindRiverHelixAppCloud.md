@@ -28,7 +28,7 @@
 1. Go to https://app.cloud.windriver.com/user/register
 2. If already registered https://app.cloud.windriver.com/
 
-### Supported SDKs
+## Supported SDKs
 
 > Wind River Linux-7 for Intel Galileo
 > > The Intel® Galileo Gen 2 board is a Arduino certified development and prototyping boards based on Intel® Quark and specifically designed for makers, students, educators, and DIY electronic enthusiasts. 
