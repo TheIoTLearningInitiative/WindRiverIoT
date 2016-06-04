@@ -52,7 +52,7 @@
 > The Xilinx Zynq BSP reference platform is designed to run on Xilinx Zynq hardware.
 > > wrlinux wrlinux-7 arm pulsar xilinx zedboard
 
-> Pulsar Linux for NXP LS1021a
-> > The NXP QorIQ LS1021A BSP reference platform is designed to run on NXP LS1021a-IoT hardware.
+### Pulsar Linux for NXP LS1021a
+> The NXP QorIQ LS1021A BSP reference platform is designed to run on NXP LS1021a-IoT hardware.
 > > wrlinux wrlinux-7 arm pulsar freescale nxp
 
