@@ -9,6 +9,10 @@ Wind River®
 
 > “…creates a robust ecosystem offering for our customers, and provides our partners with a unique opportunity to showcase their products and distribute evaluation versions to our vast customer base”
 
+- Software Packages
+- Board Support Packages
+- Wind River Beta Packages
+
 ## Wind River® Products
 
 - Wind River Helix: The Software Foundation for the Internet of Things
