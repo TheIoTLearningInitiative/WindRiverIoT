@@ -3,6 +3,7 @@
 * [Cover](README.md)
 * About This Traning
    * Prerequisites
+   * Objectives
 * [Introduction](documentation/Introduction.md)
    * [Terminology](documentation/Terminology.md)
 * [Operating Systems](documentation/OperatingSystems.md)
