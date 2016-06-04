@@ -62,4 +62,4 @@
 
 ### VxWorks-7 for Intel Galileo Gen2
 > The Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® Quark designed for makers, students, educators, and DIY electronics enthusiasts.
-> > 
+> > vxworks vxworks-7 intel galileo galileogen2
