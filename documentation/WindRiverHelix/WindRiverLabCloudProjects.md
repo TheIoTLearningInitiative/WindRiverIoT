@@ -59,7 +59,7 @@ Select "New Sessions"
 
 ## Develop Applications
 
-Select "Develop Application with Helix Application Cloud"
+Select "Develop Application with Helix Application Cloud" then free to explore!
 
 # MyCorei7, Demo Wind River Pulsar Linux 7 Core i7
 
