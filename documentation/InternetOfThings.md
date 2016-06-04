@@ -5,6 +5,8 @@
 - [Wind River® IoT](http://www.windriver.com/iot/)
 - [Wind River® IoT Infographic](http://www.windriver.com/iot/Wind-River-IoT-infographic.pdf)
 
+> $19 Trillion. Estimated amount of economic value IoT will create for businesses and society. Cisco Systems
+
 ## Roadmap
 
 ### Industries
