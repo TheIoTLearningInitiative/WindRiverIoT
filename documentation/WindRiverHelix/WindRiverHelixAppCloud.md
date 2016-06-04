@@ -9,25 +9,6 @@
 - [Wind River® Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)
 - [Wind River® Helix App Cloud Overview](http://www.windriver.com/products/product-overviews/wr-app-cloud_overview.pdf)
 
-# App Cloud Homepage
-
->  Welcome to Wind River® Helix App Cloud. Now you can create, modify, and debug applications running on real hardware—in the cloud. Wind River® Helix™ App Cloud is the central place for managing your devices and projects.
-
-> Now you can create, modify, and debug applications running on real hardware—in the cloud. Wind River® Helix™ App Cloud is the central place for managing your devices and projects.
-
-[Wind River® Helix App Cloud](https://app.cloud.windriver.com/#/home)
-
-## How to get started?
-
-1. Sign Up for Free
-2. Create a New Project
-3. Create Your Application
-
-### Sign Up for Free
-
-1. Go to [https://app.cloud.windriver.com/user/register](https://app.cloud.windriver.com/user/register)
-2. If already registered [https://app.cloud.windriver.com/](https://app.cloud.windriver.com/)
-
 ## Supported SDKs
 
 ### Wind River Linux-7 for Intel Galileo
