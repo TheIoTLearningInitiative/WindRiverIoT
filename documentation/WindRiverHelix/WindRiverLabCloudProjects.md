@@ -46,6 +46,12 @@ Select "New Sessions"
 
 # MyPlatformGalileo, Demo Wind River Rocket Galileo
 
+Select "New Sessions"
+
+1. Select the Platform "Demo Wind River Rocket Hello World Program running on Intel" and click on "Next"
+2. Enter a Session Name "MyPlatformGalileo" and click on "Create Session"
+3. Click on "Resume the Simulation" button
+
 Intel Galileo running Wind River Rocket with App Cloud Support 1.0.0.8
 > An Intel Galileo Virtual System with a Quark SoC X1000 Series processor running the Wind River Rocket RTOS.
 
