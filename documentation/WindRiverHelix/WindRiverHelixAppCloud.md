@@ -35,7 +35,7 @@
 > The Intel® Galileo Gen 2 board is a Arduino certified development and prototyping boards based on Intel® Quark and specifically designed for makers, students, educators, and DIY electronic enthusiasts. 
 > > wrlinux wrlinux-7 intel galileo galileogen2
 
-### Wind River Rocket for Intel Galileo Gen 2 (Old)
+### Wind River Rocket for Intel Galileo Gen 2
 
 > Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® Quark.
 > > rocket intel galileo galileogen2
@@ -59,3 +59,5 @@
 ### Wind River Rocket for Freescale Freedom K64F
 > The Freescale Freedom-K64F is an ultra-low-cost development platform for the Kinetis K64 MCU and is form-factor compatible with the Arduino R3 pin layout.
 > > rocket arm k64 freedom freescale
+
+### 
