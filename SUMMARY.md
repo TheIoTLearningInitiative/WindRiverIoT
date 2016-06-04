@@ -4,6 +4,7 @@
 * About This Traning
    * Prerequisites
    * Objectives
+   * Workshop Overview
 * [Introduction](documentation/Introduction.md)
    * [Terminology](documentation/Terminology.md)
 * [Operating Systems](documentation/OperatingSystems.md)
