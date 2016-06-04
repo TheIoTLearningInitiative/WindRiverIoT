@@ -1,7 +1,12 @@
-Wind River® Helix
-==
+# Wind River® Helix
 
 > Wind River® Helix™ is our portfolio of software, technologies, tools, and services for addressing the system-level challenges and opportunities created by the Internet of Things.
+
+- [Wind River® Helix Homepage](http://www.windriver.com/products/helix/)
+- [Wind River® Helix Infographic](http://www.windriver.com/products/helix/documents/Wind-River-Helix_infographic.pdf)
+- [Wind River® Unveils Cloud Suite and Free Cloud-Connected Operating Systems to Accelerate IoT](http://www.windriver.com/news/press/pr.html?ID=13925)
+
+# Components
 
 - Devices & Sensors
   - VxWorks, Wind River Linux 
@@ -15,12 +20,6 @@ Wind River® Helix
   - Wind River Helix Device Cloud
 - System Simulation
   - Wind River Simics
-
-Links
-
-- [Wind River® Helix Homepage](http://www.windriver.com/products/helix/)
-- [Wind River® Helix Infographic](http://www.windriver.com/products/helix/documents/Wind-River-Helix_infographic.pdf)
-- [Wind River® Unveils Cloud Suite and Free Cloud-Connected Operating Systems to Accelerate IoT](http://www.windriver.com/news/press/pr.html?ID=13925)
 
 ## Wind River Helix Cloud
 
