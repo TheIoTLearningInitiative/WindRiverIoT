@@ -1,5 +1,4 @@
-Terminology
-==
+# Terminology
 
 ## Cloud9
 
