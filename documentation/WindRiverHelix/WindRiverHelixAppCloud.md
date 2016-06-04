@@ -42,9 +42,10 @@
 
 > rocket intel galileo galileogen2
  
-> Wind River Rocket for Intel x86 Simulator
-> > A Rocket OS distribution for QEMU x86 Quark.
-> > rocket intel qemu
+### Wind River Rocket for Intel x86 Simulator
+> A Rocket OS distribution for QEMU x86 Quark.
+
+> rocket intel qemu
 
 > Pulsar Linux for Minnowboard Max
 > > The Minnow Board Max BSP reference platform is designed to run on the Minnow Board Max and other x86_64 simulators or hypervisors.
