@@ -1,18 +1,17 @@
 # Projects
 
 > What is Lab Cloud? Lab Cloud is a software lab that simulates hardware in a cloud platform. Using Lab Cloud, you can rapidly create and deliver IoT device and system software, both within your organization and to outside teams. From a single device to a system with many components, it's easy to access and share in Lab Cloud. In Lab Cloud you can:
-
-> Create instances of virtual hardware platforms with pre-loaded OS software - called Lab Sessions.
-Upload your own software and content to your Lab Session.
-Share Lab Sessions and content you upload to the Lab Session with anyone.
-Collaborate live or offline and play or replay your software from any point.
-Create network connections to your Lab Session system like you would to a real hardware system.
-Automate your Lab Session system with Lab Cloud Web API.
+> - Create instances of virtual hardware platforms with pre-loaded OS software - called Lab Sessions.
+> - Upload your own software and content to your Lab Session.
+> - Share Lab Sessions and content you upload to the Lab Session with anyone.
+> - Collaborate live or offline and play or replay your software from any point.
+> - Create network connections to your Lab Session system like you would to a real hardware system.
+> - Automate your Lab Session system with Lab Cloud Web API.
 
 
 # Logging in
 
-[Lab Clooud](https://lab.cloud.windriver.com/)
+[Lab Cloud](https://lab.cloud.windriver.com/)
 
 # MyPlatformGalileo, Demo Wind River Rocket Galileo
 
