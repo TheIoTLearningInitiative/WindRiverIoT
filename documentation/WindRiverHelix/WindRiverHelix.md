@@ -21,7 +21,7 @@
 - System Simulation
   - Wind River Simics
 
-## Wind River Helix Cloud
+# Wind River Helix Cloud
 
 > The Wind River® Helix™ Cloud family of products helps organizations address the key challenges of designing, building, managing, and securing data, devices, and systems for the Internet of Things (IoT).
 
@@ -29,7 +29,7 @@
 - [Wind River Helix Cloud Overview](http://www.windriver.com/products/product-overviews/wr-helix-cloud_overview.pdf)
 - [Wind River Helix Cloud Infograpic](http://www.windriver.com/products/helix/helix-cloud-infographic/helix-cloud-infographic.pdf)
 
-### Wind River® Helix App Cloud
+## Wind River® Helix App Cloud
 
 > Wind River® Helix™ App Cloud speeds creation of Internet of Things (IoT) software for system manufacturers, integrators, and operators. Simulating a development environment, it allows you to use the Pulsar SDK to write applications even without a hardware platform.
 
@@ -40,7 +40,7 @@
 - [Wind River® Helix App Cloud](http://www.windriver.com/products/helix/app-cloud/)
 - [Wind River® Helix App Cloud Overview](http://www.windriver.com/products/product-overviews/wr-app-cloud_overview.pdf)
 
-### Wind River Helix Lab Cloud
+## Wind River Helix Lab Cloud
 
 > Wind River® Helix™ Lab Cloud is an instantly accessible software lab that improves team collaboration and makes Internet of Things (IoT) development easier for everyone. It simulates hardware in a cloud platform. Using Lab Cloud you can rapidly create and share device and system software, both within your organization and with other teams.
 
@@ -48,7 +48,7 @@
 - [Wind River® Helix Lab Cloud Overview](http://www.windriver.com/products/product-overviews/wr-lab-cloud_overview.pdf)
 - [Wind River® Helix Lab Cloud Overview One Page](http://www.windriver.com/products/product-overviews/wr-lab-cloud-onepage-overview.pdf)
 
-### Wind River® Helix Device Cloud
+## Wind River® Helix Device Cloud
 
 > Unlock Machine Data to Manage Your Embedded Devices
 
