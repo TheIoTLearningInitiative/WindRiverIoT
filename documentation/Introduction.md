@@ -12,6 +12,7 @@ Wind River®
 - Software Packages
 - Board Support Packages
 - Wind River Beta Packages
+- Featured Partners
 
 ## Wind River® Products
 
