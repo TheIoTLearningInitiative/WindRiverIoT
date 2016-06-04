@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover](README.md)
+* About This Traning
 * [Introduction](documentation/Introduction.md)
    * [Terminology](documentation/Terminology.md)
 * [Operating Systems](documentation/OperatingSystems.md)
@@ -12,5 +13,4 @@
        * [Projects](documentation/WindRiverHelix/WindRiverAppCloudProjects.md)
    * [Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
        * [Projects](documentation/WindRiverHelix/WindRiverLabCloudProjects.md)
-* About This Traning
 
