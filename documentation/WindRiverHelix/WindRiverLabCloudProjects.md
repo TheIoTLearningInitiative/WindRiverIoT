@@ -57,7 +57,9 @@ Select "New Sessions"
 2. Enter a Session Name "MyPlatformGalileoAppCloud" and click on "Create Session"
 3. Click on "Start" button
 
+## Develop Applications
 
+Select "Develop Application with Helix App Cloud"
 
 # MyCorei7, Demo Wind River Pulsar Linux 7 Core i7
 
