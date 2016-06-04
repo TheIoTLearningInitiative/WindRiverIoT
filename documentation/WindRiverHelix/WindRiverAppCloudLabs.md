@@ -615,7 +615,7 @@ You can import existing projects from Github, let's import philosophers example
 
 - [Wind River Rocket Sample Applications Github](https://github.com/wind-river-rocket)
 
-## Wind River Rocket Galileo 2 "Galileo2Device"
+## Wind River Rocket Galileo 2 "PhysicalDevice"
 
 1. Close any Project running and terminate any Device simulation
 2. Select "New Device" from upper right corner
@@ -627,19 +627,19 @@ You can import existing projects from Github, let's import philosophers example
 
 __Select the SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs), select "Wind River Rocket for Intel Galileo Gen 2" then click "Next"
 
-__Enter a Device Name__ Choose "Galileo2Device" then select "Create Device"
+__Enter a Device Name__ Choose "PhysicalDevice" then select "Create Device"
 
 #### Galileo 2 Device Start
 
 In summary we need to:
 
-- Deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device
+- Deploy Wind River Rocket for Intel Galileo Gen2 on PhysicalDevice
 - Connect Device Virtual Gateway
 
-Check Galileo2Device Summary
+Check PhysicalDevice Summary
 
 ```sh
-    Galileo2Device
+    PhysicalDevice
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
      Offline Gateway
      Offline Device
@@ -652,7 +652,7 @@ Check Galileo2Device Summary
     Unique ID
 ```
 
-__Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on Galileo2Device__
+__Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on PhysicalDevice
 
 Click on "Generate and Download Device Image" and follow onscreen steps:
 
@@ -675,10 +675,10 @@ Follow onscreen steps:
     - Unzip the archive on your host, and double click on the launch script Galileo2Device-virtual-gateway.sh
     - When prompted, enter the serial port connected to your device
 
-When running "Galileo2Device-virtual-gateway.sh" this is the log seen:
+When running "PhysicalDevice-virtual-gateway.sh" this is the log seen:
 
 ```sh
-    xe1gyq@jessie:~/Downloads/IntelGalileoGateway/Galileo2Device-virtual-gateway$ sh Galileo2Device-virtual-gateway.sh 
+    xe1gyq@jessie:~/Downloads/IntelGalileoGateway/Galileo2Device-virtual-gateway$ sh PhysicalDevice-virtual-gateway.sh 
     
     Helix App Cloud Virtual Gateway for device Galileo2Device on server https://app.cloud.windriver.com
     Version: 0.2
@@ -689,17 +689,17 @@ When running "Galileo2Device-virtual-gateway.sh" this is the log seen:
     
     Configure a SOCKS v5 proxy to access App Cloud server (y/n, default is n): n
     
-    Starting the Virtual Gateway for Galileo2Device.
+    Starting the Virtual Gateway for PhysicalDevice.
     Connecting to Helix App Cloud server...
     Connection with Helix App Cloud server has been established
     Received connection request for serial port "/dev/ttyUSB0"
     Successfully opened serial port "/dev/ttyUSB0"
 ```
 
-Check again Galileo2Device Summary
+Check again PhysicalDevice Summary
 
 ```sh
-    Galileo2Device
+    PhysicalDevice
      Wind River Rocket for Intel Galileo Gen2 1.0.0.1
      Online Gateway
      Online Device
@@ -707,7 +707,7 @@ Check again Galileo2Device Summary
 
 ### Application Development
 
-#### Wind River Rocket Galileo 2 "Galileo2Device", Applications Projects, Templates
+#### Wind River Rocket Galileo 2 "PhysicalDevice", Applications Projects, Templates
 
 > Application Projects. This is the central place to manage your projects. Click on the button below to create your first project.
 
