@@ -21,7 +21,7 @@
 # MyPlatformGalileo, Demo Wind River Rocket Galileo
 
 > Demo - Wind River Rocket 'Hello World' program running on Intel 1.0.0.1.
-> > Demo of a simple Wind River Rocket program running on an Intel Quark Galileo Virtual System.
+> > Demo of a simple Wind River Rocket program running on an Intel Quark Galileo Virtual System. This demo will be enhanced as new features of the Wind River Helix Cloud products and Wind River Rocket RTOS are made available.
 
 Select "New Sessions"
 
