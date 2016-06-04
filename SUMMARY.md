@@ -11,5 +11,5 @@
    * [App Cloud](documentation/WindRiverHelix/WindRiverHelixAppCloud.md)
        * [Projects](documentation/WindRiverHelix/WindRiverAppCloudProjects.md)
    * [Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
-       * Projects
+       * [Projects](documentation/WindRiverHelix/WindRiverLabCloudProjects.md)
 
