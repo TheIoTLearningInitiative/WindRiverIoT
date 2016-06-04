@@ -7,7 +7,7 @@ Wind River® Helix™ Lab Cloud
 
 ## Logging in
 
-Tbd
+[](https://lab.cloud.windriver.com/)
 
 ## Getting Started
 
