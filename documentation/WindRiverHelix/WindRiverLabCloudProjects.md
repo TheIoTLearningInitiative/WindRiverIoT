@@ -8,7 +8,6 @@
 > - Create network connections to your Lab Session system like you would to a real hardware system.
 > - Automate your Lab Session system with Lab Cloud Web API.
 
-
 # Logging in
 
 [Lab Cloud](https://lab.cloud.windriver.com/)
