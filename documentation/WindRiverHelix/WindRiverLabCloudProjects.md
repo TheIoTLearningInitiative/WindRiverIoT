@@ -12,7 +12,7 @@ Automate your Lab Session system with Lab Cloud Web API.
 
 # Logging in
 
-[](https://lab.cloud.windriver.com/)
+[Lab Clooud](https://lab.cloud.windriver.com/)
 
 # MyPlatformGalileo, Demo Wind River Rocket Galileo
 
