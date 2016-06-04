@@ -13,7 +13,7 @@
 * [Intelligent Device Platform XT](documentation/IntelligentDevicePlatformXT.md)
 * [Wind River Helix™](documentation/WindRiverHelix/WindRiverHelix.md)
    * [App Cloud](documentation/WindRiverHelix/WindRiverHelixAppCloud.md)
-       * [Projects](documentation/WindRiverHelix/WindRiverAppCloudProjects.md)
+       * [Labs](documentation/WindRiverHelix/WindRiverAppCloudProjects.md)
    * [Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
        * [Projects](documentation/WindRiverHelix/WindRiverLabCloudProjects.md)
 * Challenge
