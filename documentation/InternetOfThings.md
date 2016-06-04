@@ -1,4 +1,4 @@
-Wind River Internet of Things
+# Wind River Internet of Things
 ==
 
 > Explore our insights into the challenges and opportunities being created by the Internet of Things (IoT) as it brings together the physical and digital worlds.
