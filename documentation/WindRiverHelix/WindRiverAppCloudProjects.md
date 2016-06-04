@@ -1,5 +1,9 @@
-Projects
-==
+# Projects
+
+
+> Getting Started. Use the New Device button in the navigation bar at the top of the page to create or register your device.
+
+
 
 ## Video Tutorials
 
