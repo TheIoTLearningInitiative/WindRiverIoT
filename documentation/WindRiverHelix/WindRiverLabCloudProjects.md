@@ -48,7 +48,7 @@ Select "New Sessions"
 
 Select "New Sessions"
 
-1. Select the Platform "Demo Wind River Rocket Hello World Program running on Intel" and click on "Next"
+1. Select the Platform "Intel Galileo running Wind River Rocket with App Cloud Support" and click on "Next"
 2. Enter a Session Name "MyPlatformGalileo" and click on "Create Session"
 3. Click on "Resume the Simulation" button
 
