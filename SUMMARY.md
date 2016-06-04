@@ -15,7 +15,7 @@
    * [App Cloud](documentation/WindRiverHelix/WindRiverHelixAppCloud.md)
        * [Labs](documentation/WindRiverHelix/WindRiverAppCloudProjects.md)
    * [Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
-       * [Projects](documentation/WindRiverHelix/WindRiverLabCloudProjects.md)
+       * [Labs](documentation/WindRiverHelix/WindRiverLabCloudProjects.md)
 * Challenge
 * [Sandbox](documentation/Sandbox.md)
 
