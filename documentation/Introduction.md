@@ -30,25 +30,19 @@ Wind River®
 
 ## Wind River® Professional Services
 
-> A CMMI Level 3–certified organization, Wind River Professional Services delivers a mix of embedded and vertical market expertise. We offer consultative thought leadership, deep technical capabilities, and innovative industry solutions to help you overcome your most strategic and pressing development challenges.
-
-[Wind River® Professional Services Homepage](http://www.windriver.com/services/)
+> A CMMI Level 3–certified organization, Wind River Professional Services delivers a mix of embedded and vertical market expertise. We offer consultative thought leadership, deep technical capabilities, and innovative industry solutions to help you overcome your most strategic and pressing development challenges. [Wind River® Professional Services Homepage](http://www.windriver.com/services/)
 
 ## Wind River® Education Services
 
-> With more than 30 years of embedded software experience, Wind River provides education services in every region of the world. We offer flexible training options to meet your business and learning needs, including public, private, and custom courses.
-
-[Wind River® Education Services](http://www.windriver.com/education/)
+> With more than 30 years of embedded software experience, Wind River provides education services in every region of the world. We offer flexible training options to meet your business and learning needs, including public, private, and custom courses. [Wind River® Education Services](http://www.windriver.com/education/)
 
 ## Wind River® Customer Support
  
-> Intelligent Device Platform XT is backed by our award-winning global support organization. With six major support centers, 21 additional support hubs, and more than 150 experts worldwide, you can get the help you need in the language and time zone that work best for you. 
-
-[Wind River® Customer Support](http://www.windriver.com/support/)
+> Intelligent Device Platform XT is backed by our award-winning global support organization. With six major support centers, 21 additional support hubs, and more than 150 experts worldwide, you can get the help you need in the language and time zone that work best for you. [Wind River® Customer Support](http://www.windriver.com/support/)
 
 ## Open Standards
 
-> Wind River® is an active participant and leader in critical industry standards initiatives for building highly interoperable and lower cost devices, systems, and networks.
+> Wind River® is an active participant and leader in critical industry standards initiatives for building highly interoperable and lower cost devices, systems, and networks. 
 
 - [Open Stack Cloud Software](http://www.openstack.org/)
 - [Open Virtualization Alliance](https://openvirtualizationalliance.org/)
