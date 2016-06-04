@@ -12,4 +12,5 @@
        * [Projects](documentation/WindRiverHelix/WindRiverAppCloudProjects.md)
    * [Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
        * [Projects](documentation/WindRiverHelix/WindRiverLabCloudProjects.md)
+* About This Traning
 
