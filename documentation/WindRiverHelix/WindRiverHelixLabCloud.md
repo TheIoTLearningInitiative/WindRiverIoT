@@ -5,10 +5,6 @@ Wind River® Helix™ Lab Cloud
 
 [Wind River® Helix™ Lab Cloud Webpage](https://lab.cloud.windriver.com/)
 
-## Logging in
-
-[](https://lab.cloud.windriver.com/)
-
 ## Getting Started
 
 - Instantly access hardware environments from anywhere.
