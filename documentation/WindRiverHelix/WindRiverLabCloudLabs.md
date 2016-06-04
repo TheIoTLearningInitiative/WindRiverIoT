@@ -175,4 +175,3 @@ Select "New Sessions"
 
 Create and Deploy and New Session for Pulsar Linux for Minnowboard MAX
 
-
