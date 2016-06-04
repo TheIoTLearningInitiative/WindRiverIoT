@@ -43,6 +43,7 @@ __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
 In summary
 
+```sh
     VirtualDevice
      Wind River Rocket for Intel x86 Simulator 1.0.0.1
      Offline Device
@@ -52,6 +53,7 @@ In summary
      [Getting started with Rocket on QEMU x86]()
     Registration ID
     Unique ID
+```
 
 Now select
 
