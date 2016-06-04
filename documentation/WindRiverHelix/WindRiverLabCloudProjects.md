@@ -13,6 +13,10 @@
 
 [Lab Cloud](https://lab.cloud.windriver.com/)
 
+# Getting Started
+
+> To get started in Lab Cloud you will need to create a Lab Session based on one of our existing Lab Cloud Platforms.
+
 # MyPlatformGalileo, Demo Wind River Rocket Galileo
 
 Select "New Sessions"
