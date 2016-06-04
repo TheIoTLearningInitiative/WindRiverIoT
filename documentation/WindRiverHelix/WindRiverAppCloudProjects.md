@@ -3,6 +3,10 @@
 
 > Getting Started. Use the New Device button in the navigation bar at the top of the page to create or register your device.
 
+> Create a new device. Create a new device by choosing from a pre-defined list of Software Developer Kits (SDKs). New SDKs have been recently added:
+> - Wind River Rocket for Intel Galileo Gen 2
+> - Wind River Rocket for Simulator
+> - Pulsar Linux for Minnowboard Max
 
 
 ## Video Tutorials
