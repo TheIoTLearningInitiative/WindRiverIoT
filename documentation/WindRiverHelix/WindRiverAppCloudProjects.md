@@ -74,6 +74,8 @@ Create 2 different projects by selecting "Create New Project":
 1. First called "MyDiningPhilosophers" based on "Dining Philosophers" Project Template
 2. Second called "MyHelloWorld" based on "Empty C Project"
 
+#### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, MyHelloWorld
+
 Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized.
 
 ##### __MyHelloWorld - Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
@@ -575,6 +577,9 @@ System.map  final-linker.cmd    kernel                scripts      zephyr.bin  z
 arch        include             lib                   source       zephyr.elf  zephyr.strip
 debug       int_vector_alloc.o  linker.cmd            staticIdt.o  zephyr.lnk
 ```
+
+#### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, MyDiningPhilosophers
+
 
 #### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
