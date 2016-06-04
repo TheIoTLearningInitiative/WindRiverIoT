@@ -58,7 +58,7 @@ Now select
  - __Start Device Simulation__, to start your Virtual Device
  - __Terminate Device Simulation__, to stop your Virtual Device
 
-Before moving on, start Device Simulation
+Before moving on, __start Device Simulation__
 
 ### Application Development
 
