@@ -23,7 +23,7 @@
 2. Create a New Project
 3. Create Your Application
 
-### Sign Up for Free
+## Sign Up for Free
 
 1. Go to https://app.cloud.windriver.com/user/register
 2. If already registered https://app.cloud.windriver.com/
