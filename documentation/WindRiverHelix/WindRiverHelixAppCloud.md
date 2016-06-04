@@ -30,9 +30,11 @@
 
 ## Supported SDKs
 
-> Wind River Linux-7 for Intel Galileo
-> > The Intel® Galileo Gen 2 board is a Arduino certified development and prototyping boards based on Intel® Quark and specifically designed for makers, students, educators, and DIY electronic enthusiasts. 
-> > wrlinux wrlinux-7 intel galileo galileogen2
+### Wind River Linux-7 for Intel Galileo
+
+> The Intel® Galileo Gen 2 board is a Arduino certified development and prototyping boards based on Intel® Quark and specifically designed for makers, students, educators, and DIY electronic enthusiasts. 
+
+> wrlinux wrlinux-7 intel galileo galileogen2
 
 > Wind River Rocket for Intel Galileo Gen 2
 > > Designed for makers, students, educators, and DIY electronics enthusiasts, the Intel® Galileo Gen 2 board is an Arduino certified development and prototyping board based on Intel® Quark.
