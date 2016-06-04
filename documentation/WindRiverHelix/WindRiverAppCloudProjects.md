@@ -82,6 +82,8 @@ Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" m
 2. Select "Run Project" if it is not running
 3. Go to console "outdir/zephyr.elf - Running"
 
+Full View
+
 ```sh
 make 
 Using /users/xe1gyq/MyHelloWorld/zephyr/arch/x86/configs/basic_minuteia_defconfig as base
@@ -453,6 +455,8 @@ Loading /users/xe1gyq/MyHelloWorld//outdir/zephyr.elf on target...  done
 Starting application...  done
 Application is now running
 ```
+
+Short View
 
 ```sh
     make
