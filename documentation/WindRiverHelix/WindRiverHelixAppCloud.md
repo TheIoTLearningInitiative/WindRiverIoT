@@ -56,3 +56,6 @@
 > The NXP QorIQ LS1021A BSP reference platform is designed to run on NXP LS1021a-IoT hardware.
 > > wrlinux wrlinux-7 arm pulsar freescale nxp
 
+### Wind River Rocket for Freescale Freedom K64F
+> The Freescale Freedom-K64F is an ultra-low-cost development platform for the Kinetis K64 MCU and is form-factor compatible with the Arduino R3 pin layout.
+> > rocket arm k64 freedom freescale
