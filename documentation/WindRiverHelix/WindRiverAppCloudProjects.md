@@ -2,6 +2,21 @@
 
 > Welcome to Wind River® Helix™ App Cloud. Now you can create, modify, and debug applications running on real hardware—in the cloud. Wind River® Helix™ App Cloud is the central place for managing your devices and projects.
 
+> Now you can create, modify, and debug applications running on real hardware—in the cloud. Wind River® Helix™ App Cloud is the central place for managing your devices and projects.
+
+[Wind River® Helix App Cloud](https://app.cloud.windriver.com/#/home)
+
+## How to get started?
+
+1. Sign Up for Free
+2. Create a New Project
+3. Create Your Application
+
+### Sign Up for Free
+
+1. Go to [https://app.cloud.windriver.com/user/register](https://app.cloud.windriver.com/user/register)
+2. If already registered [https://app.cloud.windriver.com/](https://app.cloud.windriver.com/)
+
 ## Getting Started
 
 > Getting Started. Use the New Device button in the navigation bar at the top of the page to create or register your device.
