@@ -103,7 +103,7 @@ Select "New Sessions"
 
 - Log in to Wind River® Helix™ Lab Cloud
 - Go to "User Profile"
-- Select "+" under "Web APIs <> User Access Token" and copy your key
+- Select "+" under "Web APIs <> [User Access Token](https://lab.cloud.windriver.com/#/user/profile#AccessToken)" and copy your key
 
 ```sh
     Web APIs access token
