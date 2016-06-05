@@ -172,11 +172,11 @@ Authentication successful.
 MyCorei7: Secured communication established with target.
 MyCorei7: Network proxy server running: 40733 -> 22
 MyCorei7: Network proxy server running: 42729 -> 1534
-MyPulsar: Secured communication established with target.
-MyPulsar: Network proxy server running: 53984 -> 22 (UDP)
-MyPulsar: Network proxy server running: 40695 -> 22 (TCP)
-MyPulsar: Network proxy server running: 33143 -> 1534 (UDP)
-MyPulsar: Network proxy server running: 34300 -> 1534 (TCP)
+MyCorei7: Secured communication established with target.
+MyCorei7: Network proxy server running: 53984 -> 22 (UDP)
+MyCorei7: Network proxy server running: 40695 -> 22 (TCP)
+MyCorei7: Network proxy server running: 33143 -> 1534 (UDP)
+MyCorei7: Network proxy server running: 34300 -> 1534 (TCP)
     
 ```
 
