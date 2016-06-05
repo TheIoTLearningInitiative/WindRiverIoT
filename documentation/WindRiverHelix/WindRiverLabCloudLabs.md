@@ -134,6 +134,7 @@ nodejs is already the newest version.
 xe1gyq@jessie:~/Downloads/$ mkdir helix
 xe1gyq@jessie:~/Downloads/$ cd helix
 xe1gyq@jessie:~/Downloads/helix$ cp ../helix-lab-network-proxy.zip .
+xe1gyq@jessie:~/Downloads/helix$ 
 ```
 
 ```sh
