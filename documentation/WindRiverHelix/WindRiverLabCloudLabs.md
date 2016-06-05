@@ -139,6 +139,7 @@ Archive:  helix-lab-network-proxy.zip
 ...
   inflating: helix-lab-network-proxy/helix-lab-network-proxy.sh  
   inflating: helix-lab-network-proxy/portforward.js 
+xe1gyq@jessie:~/Downloads/helix$ 
 ```
 
 ```sh
