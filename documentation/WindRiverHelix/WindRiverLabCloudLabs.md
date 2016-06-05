@@ -94,7 +94,8 @@ Select "New Sessions"
 ## MyCorei7, Console Domain0
 
 ```sh
-    cube-31-10-15-dom0 login: rootPassword: 
+    cube-31-10-15-dom0 login: root
+    Password: incendia
     root@cube-31-10-15-dom0:~# 
 ```
 
