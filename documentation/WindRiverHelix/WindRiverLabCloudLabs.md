@@ -67,7 +67,7 @@ Select "New Sessions"
 
 1. Select the Platform "Intel Core i7 Virtual System running Wind River Pulsar Linux 7" and click on "Next"
 2. Enter a Session Name "MyCorei7" and click on "Create Session"
-3. Click on "Resume the Simulation" button
+3. Click on "Start" button
 
 ## MyCorei7, Console DomainE
 
