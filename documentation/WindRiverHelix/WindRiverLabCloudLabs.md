@@ -170,9 +170,6 @@ Using the credential saved for a connection to the Helix server, https://lab.clo
 Authenticating to https://lab.cloud.windriver.com
 Authentication successful.
 MyCorei7: Secured communication established with target.
-MyCorei7: Network proxy server running: 40733 -> 22
-MyCorei7: Network proxy server running: 42729 -> 1534
-MyCorei7: Secured communication established with target.
 MyCorei7: Network proxy server running: 53984 -> 22 (UDP)
 MyCorei7: Network proxy server running: 40695 -> 22 (TCP)
 MyCorei7: Network proxy server running: 33143 -> 1534 (UDP)
