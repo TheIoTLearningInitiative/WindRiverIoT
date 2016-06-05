@@ -133,7 +133,7 @@ nodejs is already the newest version.
 ```sh
 xe1gyq@jessie:~/Downloads/$ mkdir helix
 xe1gyq@jessie:~/Downloads/$ cd helix
-xe1gyq@jessie:~/Downloads/helix$ 
+xe1gyq@jessie:~/Downloads/helix$ cp ../helix-lab-network-proxy.zip .
 ```
 
 ```sh
