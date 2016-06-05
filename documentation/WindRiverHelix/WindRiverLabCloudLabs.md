@@ -150,25 +150,34 @@ xe1gyq@jessie:~/Downloads/helix$
 ```
 
 ```sh
-    xe1gyq@jessie:~/Downloads/helix$ cd helix-lab-network-proxy/
-    xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ls
-    connection.json              helix-lab-network-proxy.js  node_modules    sails.js       terminal.js
-    devices.js                   helix-lab-network-proxy.sh  package.json    sessions.js    utils.js
-    helix-lab-network-proxy.cmd  LICENSE                     portforward.js  tcf-client-js  version.js
+xe1gyq@jessie:~/Downloads/helix$ cd helix-lab-network-proxy/
+xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ls
+connection.json              helix-lab-network-proxy.js  node_modules    sails.js       terminal.js
+devices.js                   helix-lab-network-proxy.sh  package.json    sessions.js    utils.js
+helix-lab-network-proxy.cmd  LICENSE                     portforward.js  tcf-client-js  version.js
 
-    xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ./helix-lab-network-proxy.sh 
-    Helix Network Proxy v1.2.0
+```
 
-    You are using a Wind River account to connect to the Helix server.
-    Your credentials are read from the file /home/xe1gyq/.helix-network-proxy.cred
+```sh
+xe1gyq@jessie:~/Downloads/helix/helix-lab-network-proxy$ ./helix-lab-network-proxy.sh 
+Helix Network Proxy v1.2.0
+
+You are using a Wind River account to connect to the Helix server.
+Your credentials are read from the file /home/xe1gyq/.helix-network-proxy.cred
     
-    Using the credential saved for a connection to the Helix server, https://lab.cloud.windriver.com
+Using the credential saved for a connection to the Helix server, https://lab.cloud.windriver.com
     
-    Authenticating to https://lab.cloud.windriver.com
-    Authentication successful.
-    MyCorei7: Secured communication established with target.
-    MyCorei7: Network proxy server running: 40733 -> 22
-    MyCorei7: Network proxy server running: 42729 -> 1534
+Authenticating to https://lab.cloud.windriver.com
+Authentication successful.
+MyCorei7: Secured communication established with target.
+MyCorei7: Network proxy server running: 40733 -> 22
+MyCorei7: Network proxy server running: 42729 -> 1534
+MyPulsar: Secured communication established with target.
+MyPulsar: Network proxy server running: 53984 -> 22 (UDP)
+MyPulsar: Network proxy server running: 40695 -> 22 (TCP)
+MyPulsar: Network proxy server running: 33143 -> 1534 (UDP)
+MyPulsar: Network proxy server running: 34300 -> 1534 (TCP)
+    
 ```
 
 ## MyCorei7, Remote Connection
