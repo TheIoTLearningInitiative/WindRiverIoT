@@ -131,6 +131,12 @@ nodejs is already the newest version.
 - Download and Install "Client Connection Software"
 
 ```sh
+xe1gyq@jessie:~/Downloads/$ mkdir helix
+xe1gyq@jessie:~/Downloads/$ cd helix
+xe1gyq@jessie:~/Downloads/helix$ 
+```
+
+```sh
 xe1gyq@jessie:~/Downloads/helix$ unzip helix-lab-network-proxy.zip
 Archive:  helix-lab-network-proxy.zip
    creating: helix-lab-network-proxy/
