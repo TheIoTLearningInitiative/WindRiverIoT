@@ -46,7 +46,7 @@ Select "New Sessions"
     ...
 ```
 
-# MyPlatformGalileo, Demo Wind River Rocket Galileo
+# MyPlatformGalileo, Demo Wind River Rocket Galileo, App Cloud
 
 > Intel Galileo running Wind River Rocket with App Cloud Support 1.0.0.8
 > > An Intel Galileo Virtual System with a Quark SoC X1000 Series processor running the Wind River Rocket RTOS.
