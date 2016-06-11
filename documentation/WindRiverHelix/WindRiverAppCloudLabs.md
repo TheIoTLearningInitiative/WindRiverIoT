@@ -657,7 +657,7 @@ __Serial Console__
 ToDo
 
 ```sh
-
+ Output of looking at the Serial Port from Host
 ```
 
 __Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on PhysicalDevice
