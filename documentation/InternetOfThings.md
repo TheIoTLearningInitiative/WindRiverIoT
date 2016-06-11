@@ -7,7 +7,6 @@
 - [Wind River® IoT](http://www.windriver.com/iot/)
 - [Wind River® IoT Infographic](http://www.windriver.com/iot/Wind-River-IoT-infographic.pdf)
 
-
 # Roadmap
 
 ## Industries
