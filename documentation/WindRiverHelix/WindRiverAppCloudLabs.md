@@ -652,6 +652,14 @@ Check PhysicalDevice Summary
     Unique ID
 ```
 
+__Serial Console__
+
+ToDo
+
+```sh
+
+```
+
 __Follow the instructions below to deploy Wind River Rocket for Intel Galileo Gen2 on PhysicalDevice
 
 Click on "Generate and Download Device Image" and follow onscreen steps:
