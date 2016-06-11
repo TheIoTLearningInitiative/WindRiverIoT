@@ -18,7 +18,7 @@
 
 > To use the platform with Helix App Cloud you will need to create a Helix App Cloud account and select the Helix App Cloud option during the new session creation process in Helix Lab Cloud. To connect to App Cloud first run the Lab Session from Lab Cloud by pressing the play button and then click the bug button to launch Wind River Helix App Cloud to create an automatic connection. Once in App Cloud you can create a software project and download Wind River Rocket example programs or write your own. If you stop the Lab Session, you must restart/reload each time from Snapshot 0 in Lab Cloud to reconnect to App Cloud. For more information about Rocket RTOS see the Wind River Rocket product page - www.windriver.com/products/operating-environments/rocket/
 
-# MyPlatformGalileo, Demo Wind River Rocket Galileo
+# MyPlatformGalileo, Demo Wind River Rocket Galileo, Hello World
 
 > Demo - Wind River Rocket 'Hello World' program running on Intel 1.0.0.1.
 > > Demo of a simple Wind River Rocket program running on an Intel Quark Galileo Virtual System. This demo will be enhanced as new features of the Wind River Helix Cloud products and Wind River Rocket RTOS are made available.
