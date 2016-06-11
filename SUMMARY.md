@@ -2,7 +2,7 @@
 
 * [Cover](README.md)
 * About This Traning
-   * Prerequisites
+   * [Prerequisites](Prerequisites.md)
    * Objectives
    * Workshop Overview
 * [Introduction](documentation/Introduction.md)
