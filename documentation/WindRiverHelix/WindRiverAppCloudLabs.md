@@ -6,12 +6,12 @@
 
 [Wind River® Helix App Cloud](https://app.cloud.windriver.com/#/home)
 
-## Sign Up for Free
+# Sign Up for Free
 
 1. Go to [https://app.cloud.windriver.com/user/register](https://app.cloud.windriver.com/user/register)
 2. If already registered [https://app.cloud.windriver.com/](https://app.cloud.windriver.com/)
 
-## Getting Started
+# Getting Started
 
 > Getting Started. Use the New Device button in the navigation bar at the top of the page to create or register your device.
 
@@ -22,7 +22,7 @@
 
 > Register an existing device. Register a device that was previously created in App Cloud. The device Registration ID is dispayed in the device details pane once created.
 
-## Video Tutorials
+# Video Tutorials
 
 > These video tutorials introduce key concepts and demonstrate step-by-step processes to help you make the most of App Cloud.
 
@@ -34,21 +34,21 @@
 - Building gzip on Pulsar - an Open Source Autoconf Project
 - Building lua on Pulsar - an Open Source Makefile Project
 
-## Wind River Rocket Intel x86 Simulator "VirtualDevice"
+# Wind River Rocket Intel x86 Simulator "VirtualDevice"
 
 1. Close any Project running and terminate any Device simulation
 2. Select "New Device" from upper right corner
 3. From "Add a new device to App Cloud" popup window select "Create a new device from the supported SDK list"
 
-### Device Setup
+## Device Setup
 
-#### Add a new device to App Cloud
+### Add a new device to App Cloud
 
 __Select a SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs), select "Wind River Rocket for Intel x86 Simulator" then click "Next"
 
 __Enter a Device Name__ Choose "VirtualDevice" then select "Create Device"
 
-#### Virtual Device Start
+### Virtual Device Start
 
 In summary
 
@@ -71,9 +71,9 @@ Now select
 
 Before moving on, __start Device Simulation__
 
-### Application Development
+## Application Development
 
-#### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Templates
+### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Templates
 
 > Application Projects. 
 > > This is the central place to manage your projects. Click on the button below to create your first project.
@@ -83,7 +83,7 @@ Create 2 different projects by selecting "Create New Project":
 1. First called "MyDiningPhilosophers" based on "Dining Philosophers" Project Template
 2. Second called "MyHelloWorld" based on "Empty C Project"
 
-#### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, MyHelloWorld
+### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, MyHelloWorld
 
 Open "MyHelloWorld" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized.
 
@@ -527,7 +527,7 @@ Short View
     xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
 
-###### Make Menuconfig
+##### Make Menuconfig
 
 ```sh
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ make menuconfig
@@ -553,7 +553,7 @@ make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
 
-###### Make
+##### Make
 
 ```sh
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ make
@@ -570,7 +570,7 @@ make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ 
 ```
 
-###### Upper Directories
+##### Upper Directories
 
 ```sh
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ ls
@@ -587,7 +587,7 @@ arch        include             lib                   source       zephyr.elf  z
 debug       int_vector_alloc.o  linker.cmd            staticIdt.o  zephyr.lnk
 ```
 
-#### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, MyDiningPhilosophers
+### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, MyDiningPhilosophers
 
 ```sh
 xe1gyq@helix-app-cloud:~/MyHelloWorld$ cd ../MyDiningPhilosophers/
@@ -605,7 +605,7 @@ make[1]: Leaving directory '/users/xe1gyq/MyHelloWorld/zephyr'
 xe1gyq@helix-app-cloud:~/MyDiningPhilosophers$ 
 ```
 
-#### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Github
+### Wind River Rocket Intel x86 Simulator "VirtualDevice", Applications Projects, Github
 
 You can import existing projects from Github, let's import philosophers example
 
@@ -615,21 +615,21 @@ You can import existing projects from Github, let's import philosophers example
 
 - [Wind River Rocket Sample Applications Github](https://github.com/wind-river-rocket)
 
-## Wind River Rocket Galileo 2 "PhysicalDevice"
+# Wind River Rocket Galileo 2 "PhysicalDevice"
 
 1. Close any Project running and terminate any Device simulation
 2. Select "New Device" from upper right corner
 3. From "Add a new device to App Cloud" popup window select "Create a new device from the supported SDK list"
 
-### Device Setup
+## Device Setup
 
-#### Add a new device to App Cloud
+### Add a new device to App Cloud
 
 __Select the SDK__ Register an existing device or create a new device from a pre-defined list of Software Developer Kits (SDKs), select "Wind River Rocket for Intel Galileo Gen 2" then click "Next"
 
 __Enter a Device Name__ Choose "PhysicalDevice" then select "Create Device"
 
-#### Galileo 2 Device Start
+### Galileo 2 Device Start
 
 In summary we need to:
 
@@ -705,9 +705,9 @@ Check again PhysicalDevice Summary
      Online Device
 ```
 
-### Application Development
+## Application Development
 
-#### Wind River Rocket Galileo 2 "PhysicalDevice", Applications Projects, Templates
+### Wind River Rocket Galileo 2 "PhysicalDevice", Applications Projects, Templates
 
 > Application Projects. This is the central place to manage your projects. Click on the button below to create your first project.
 
@@ -724,7 +724,7 @@ Choose "Grove-LCD" template and name it "MyGrove-LCD"
 
 Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" message will appear shortly in a new web browser tab and then Could9 Workspace will be initialized
 
-##### __MyGrove-LCD Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
+#### __MyGrove-LCD Cloud9 Workspace__ Console "outdir/zephyr.elf - Running"
 
 1. Go to MyGrove-LCD Could9 Workspace web browser tab
 2. Select "Run Project" if it is not running
@@ -770,7 +770,7 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
     Button on D3 = 0
 ```
 
-##### __MyGrove-LCD Cloud9 Workspace__ Console "bash - helix app cloud"
+#### __MyGrove-LCD Cloud9 Workspace__ Console "bash - helix app cloud"
 
 1. Go to MyGrove-LCD Could9 Workspace web browser tab
 2. Select "Run Project" if it is not running
@@ -783,6 +783,6 @@ Open "MyGrove-LCD" by selecting "Open" green button, "Loading your Workspace" me
     xe1gyq@helix-app-cloud:~/MyGrove-LCD$ make menuconfig
 ```
 
-## Wind River Pulsar Intel x86 Simulator "VirtualDevice"
+# Wind River Pulsar Intel x86 Simulator "VirtualDevice"
 
 If you have a Minnowboard MAX, work with Wind River Pulsar
