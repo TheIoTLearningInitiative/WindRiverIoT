@@ -13,7 +13,7 @@
 > The Best of Both Worlds. Wind River® Linux combines the assurance and reliability that comes with our 30 years of embedded industry leadership with the flexibility and freedom of open source software.
 
 - [Wind River® Linux](http://www.windriver.com/products/linux/)
-- [Linux total cost of ownership (TCO) Calculator](http://www.windriver.com/products/linux/tco-calculator/)
+- [Linux total cost of ownership (TCO) calculator](http://www.windriver.com/products/linux/tco-calculator/)
 
 # Wind River® Rocket™
 
