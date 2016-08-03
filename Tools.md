@@ -18,4 +18,6 @@
 [Wind River® Development Tools](http://www.windriver.com/products/development-tools/)
 
 
+# Wind River® Simics
 
+- [](http://www.windriver.com/products/simics/knowledge-library.html)
