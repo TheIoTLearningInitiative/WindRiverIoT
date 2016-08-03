@@ -28,4 +28,4 @@
 
 > __Knowledge Library__ Browse our archive of documents, videos, and presentations to learn more about how Wind River® Simics® can revolutionize embedded software development. [Knowledge Library](http://www.windriver.com/products/simics/knowledge-library.html)
 
-[](http://windriver.com/products/simics/2798-Simics-case-study/)
+[Simics Case Study: WIND RIVER OVERCOMES "MATRIX OF PAIN" IN IOT CHALLENGES WITH SIMICS VIRTUAL TESTING ENVIRONMENT](http://windriver.com/products/simics/2798-Simics-case-study/)
