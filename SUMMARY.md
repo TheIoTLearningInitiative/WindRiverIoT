@@ -18,6 +18,7 @@
     * [Lab Cloud](documentation/WindRiverHelix/WindRiverHelixLabCloud.md)
         * [Labs](documentation/WindRiverHelix/WindRiverLabCloudLabs.md)
 * [Wrap-Up](documentation/WrapUp.md)
-* [Challenge](documentation/Challenge.md)
+    * [Online Training](documentation/OnlineTraining.md)
+    * [Challenge](documentation/Challenge.md)
 * Wrap-Up
 
