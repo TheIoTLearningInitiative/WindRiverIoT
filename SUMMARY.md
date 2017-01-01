@@ -6,7 +6,7 @@
     * [Prerequisites](documentation/Prerequisites.md)
     * Skills
 * [Once Upon a Time](documentation/OnceUponATime.md)
-* [Introduction](documentation/WindRiver.md)
+* [WindRiver](documentation/WindRiver.md)
     * [Terminology](documentation/Terminology.md)
 * [Operating Systems](documentation/OperatingSystems.md)
     * [Tools](documentation/Tools.md)
