@@ -20,5 +20,5 @@
 * [Wrap-Up](documentation/WrapUp.md)
     * [Online Training](documentation/OnlineTraining.md)
     * [Challenge](documentation/Challenge.md)
-* Wrap-Up
+* [Wrap-Up](wrap-up.md)
 
