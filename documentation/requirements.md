@@ -3,6 +3,6 @@
 # Equipment
 
 - Workstation (Linux, Windows, OS X)
-- Internet Connection
+- Internet Connection (No Proxy)
 
 
