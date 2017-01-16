@@ -3,8 +3,9 @@
 * [Cover](README.md)
 * [About This Traning](documentation/AboutThisTraining.md)
     * [Objectives](documentation/Objectives.md)
-    * [Prerequisites](documentation/Prerequisites.md)
     * Skills
+    * [Prerequisites](documentation/Prerequisites.md)
+    * [Requirements](documentation/requirements.md)
 * [Once Upon a Time](documentation/OnceUponATime.md)
 * [WindRiver](documentation/WindRiver.md)
     * [Terminology](documentation/Terminology.md)
